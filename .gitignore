@@ -1,0 +1,4 @@
+
+dumps/
+env/
+*.pickle
