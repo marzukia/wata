@@ -148,9 +148,10 @@ for sale in sales:
 sales = []
 
 grade_rx = re.compile(r'^[0-9].[0-9]')
-seal_grade_rx = re.compile(r'\b[A\+\+|A\+|A|B\+|B|C\+|C]\b')
+seal_grade_rx = re.compile(r'(?: )([ABC][\+]*)(?: )')
 seal_type_rx = re.compile(r'SEALED|GLUE SEAL|NO SEAL|CIB|LOOSE CART')
 variant_rx = re.compile(r'VARIANT: ')
+# {'9.4', '7.0', '2.5', '9.2', '3.0', '9.6', '6.0', '6.5', '5.0', '7.5', '4.5', '5.5', '8.0', '9.0', '4.0', None, '9.8', '8.5', '3.5'}
 
 seal_comments = set()
 
@@ -159,13 +160,14 @@ for index, sale in enumerate(wata):
 
     # The titles have bunch of random comments sometimes, this gets rid of that.
     comment_rx = re.compile(r'(?:[\[\(])(.+)(?:[\]\)])')
-    comments = re.findall(comment_rx, sale.get('description'))
+    comments = [*re.findall(comment_rx, title), *re.findall(comment_rx, grading)]
 
     for comment in comments:
         comment.replace('"', '')
 
     clean_up_rx = re.compile(r'\.{3,}|\.$|[\[\(].+[\]\)]|,')
-    cleaned = re.sub(clean_up_rx, '', grading)
+    cleaned = re.sub(clean_up_rx, '', sale.get('description'))
+    cleaned = cleaned.split('Wata')[-1]
     cleaned = re.sub(r'[ ]{1,}', ' ', cleaned)
     cleaned = re.sub(r'\. ', '', cleaned)
     cleaned = cleaned.strip().upper()
@@ -176,7 +178,7 @@ for index, sale in enumerate(wata):
 
     seal_grade = re.search(seal_grade_rx, cleaned)
     if seal_grade:
-        seal_grade = seal_grade[0]
+        seal_grade = seal_grade[0].strip()
 
     seal_type = re.search(seal_type_rx, cleaned)
     if seal_type:
@@ -188,7 +190,7 @@ for index, sale in enumerate(wata):
 
     sale = {
         **sale,
-        'comments': ",".join(comments),
+        'comments': ", ".join(comments),
         'title': re.sub(r'[\[\(].+[\]\)]', '', title).strip(),
         'grade': grade,
         'seal_grade': seal_grade,
