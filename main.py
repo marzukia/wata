@@ -163,7 +163,7 @@ for index, sale in enumerate(wata):
     comments = [*re.findall(comment_rx, title), *re.findall(comment_rx, grading)]
 
     for comment in comments:
-        comment.replace('"', '')
+        comment = re.sub(r'\(|\)\[\]\"', '', comment)
 
     clean_up_rx = re.compile(r'\.{3,}|\.$|[\[\(].+[\]\)]|,')
     cleaned = re.sub(clean_up_rx, '', sale.get('description'))

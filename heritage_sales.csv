@@ -72,7 +72,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2021-07-11,1680.0,"Haunting Ground - Wata 9.6 A Sealed, PS2 Capcom 2005 USA. ...",7261,29299,,Haunting Ground,9.6,A,SEALED,False
 2019-11-22,2340.0,"Dragon Warrior [1 HP, First Release] - Carolina Collection Wata 9.6 A+ Sealed NES Nintendo 1989 USA....",7212,93016,"1 HP, First Release",Dragon Warrior  - Carolina Collection,9.6,A+,SEALED,False
 2020-10-19,109.0,"Hollywood Squares - Wata 7.0 B Sealed [Oval SOQ TM, Blue Box], NES Gametek 1989 USA....",122042,15837,"Oval SOQ TM, Blue Box",Hollywood Squares,7.0,B,SEALED,False
-2021-07-09,4080.0,"Snake's Revenge - Wata 9.6 A+ Sealed [Oval SOQ TM, Early Production] (Hawaii Collection), NES Ultra 1990 USA....",7261,28049,"Oval SOQ TM, Early Production] (Hawaii Collection",Snake's Revenge,9.6,A+,SEALED,False
+2021-07-09,4080.0,"Snake's Revenge - Wata 9.6 A+ Sealed [Oval SOQ TM, Early Production] (Hawaii Collection), NES Ultra 1990 USA....",7261,28049,"Oval SOQ TM, Early Production Hawaii Collection",Snake's Revenge,9.6,A+,SEALED,False
 2021-06-29,2040.0,"Super Mario Land 2: 6 Golden Coins - Wata 9.2 A++ Sealed, GB Nintendo 1992 USA. ...",312126,70049,,Super Mario Land 2: 6 Golden Coins,9.2,A++,SEALED,False
 2019-11-22,2400.0,"Donkey Kong Classics [Rev-A, Round SOQ] - Carolina Collection Wata 9.8 A+ Sealed NES Nintendo 1988 USA....",7212,93014,"Rev-A, Round SOQ",Donkey Kong Classics  - Carolina Collection,9.8,A+,SEALED,False
 2019-11-24,630.0,The Mutant Virus - Carolina Collection Wata 9.8 A++ Sealed NES ASC 1992 USA....,7212,97165,,The Mutant Virus - Carolina Collection,9.8,A++,SEALED,False
@@ -325,7 +325,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2021-07-09,11100.0,"Mortal Kombat 3 - Wata 9.6 A+ Sealed [Made in Japan], SNES Nintendo 1995 USA....",7261,28082,Made in Japan,Mortal Kombat 3,9.6,A+,SEALED,False
 2019-01-27,59.0,"Lego Marvel Avengers (Wii U, Warner Bros, 2016) Wata 9.4 A (Seal Rating)....",121904,14870,"Wii U, Warner Bros, 2016, Seal Rating",Lego Marvel Avengers,,,,False
 2021-07-13,264.0,"Mission: Impossible - Wata 8.0 A Sealed [Oval SOQ R], NES Ultra 1990 USA....",312128,67027,Oval SOQ R,Mission: Impossible,8.0,A,SEALED,False
-2021-08-24,840.0,"Yoshi's Cookie - Wata 9.4 A+ Sealed [Oval SOQ R] (Indiana Collection), NES Nintendo 1993 USA....",312134,69058,Oval SOQ R] (Indiana Collection,Yoshi's Cookie,9.4,A+,SEALED,False
+2021-08-24,840.0,"Yoshi's Cookie - Wata 9.4 A+ Sealed [Oval SOQ R] (Indiana Collection), NES Nintendo 1993 USA....",312134,69058,Oval SOQ R Indiana Collection,Yoshi's Cookie,9.4,A+,SEALED,False
 2021-03-30,408.0,"Deadly Towers - Wata 9.4 A Sealed [Rev-A, Round SOQ], NES Broderbund 1987 USA...",312113,70038,"Rev-A, Round SOQ",Deadly Towers,9.4,A,SEALED,False
 2021-05-25,132.0,"Q*bert - Wata 9.2 A Sealed [1988 Red box], 2600 Atari 1987 USA. ...",312121,69014,1988 Red box,Q*bert,9.2,A,SEALED,False
 2020-07-12,660.0,"Batman: Return of the Joker - Wata 9.6 CIB, NES Sunsoft 1991 USA....",7231,97041,,Batman: Return of the Joker,9.6,,CIB,False
@@ -354,7 +354,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2019-06-16,264.0,"Gyromite (NES, Nintendo, 1985) Wata 6.5 CIB (Complete in Box) Box 6.5, Cartridge 7.5, Manual 6.0....",121924,15236,"NES, Nintendo, 1985, Complete in Box",Gyromite,,,,False
 2020-11-22,1680.0,"Michael Jordan: Chaos in the Windy City - Wata 8.5 A Sealed [Made in Japan], SNES Electronic Arts 1994 USA....",7236,97150,Made in Japan,Michael Jordan: Chaos in the Windy City,8.5,A,SEALED,False
 2020-08-10,360.0,"Castlevania: Lament of Innocence - Wata 9.8 A+ Sealed [Sony Security Strip], PS2 Konami 2003 USA....",122032,13836,Sony Security Strip,Castlevania: Lament of Innocence,9.8,A+,SEALED,False
-2019-04-28,99.0,"Halo 3/Fable II (NFR) (Xbox 360, Microsoft, 2009) Wata 9.6 A (Seal Rating)....",121917,17276,"NFR) (Xbox 360, Microsoft, 2009, Seal Rating",Halo 3/Fable II,,,,False
+2019-04-28,99.0,"Halo 3/Fable II (NFR) (Xbox 360, Microsoft, 2009) Wata 9.6 A (Seal Rating)....",121917,17276,"NFR Xbox 360, Microsoft, 2009, Seal Rating",Halo 3/Fable II,,,,False
 2019-02-23,384.0,"Spider-Man (NES, LJN, 1992) Wata 7.5 A (Seal Rating)....",7204,94440,"NES, LJN, 1992, Seal Rating",Spider-Man,,,,False
 2021-05-04,840.0,"Rampage - Wata 8.0 A+ Sealed, 2600 Activision 1989 USA. ...",312118,66018,,Rampage,8.0,A+,SEALED,False
 2020-03-08,1080.0,Super C [Oval SOQ TM] Wata 7.0 A Sealed NES Konami 1990 USA....,7224,97053,Oval SOQ TM,Super C,7.0,A,SEALED,False
@@ -394,7 +394,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2020-07-12,168.0,"Bases Loaded 3 - Wata 8.0 A Sealed, NES Jaleco 1991 USA....",7231,97039,,Bases Loaded 3,8.0,A,SEALED,False
 2021-03-30,264.0,"Looney Tunes - Wata 8.5 A++ Sealed, GB Sunsoft 1992 USA. ...",312113,70064,,Looney Tunes,8.5,A++,SEALED,False
 2021-04-13,384.0,"Shadow of the Beast II - Wata 9.0 A Sealed, GEN Electronic Arts 1992 USA. ...",312115,67064,,Shadow of the Beast II,9.0,A,SEALED,False
-2021-04-05,1140.0,"Guerrilla War - Wata 9.4 A+ Sealed [Oval SOQ TM] (The Indiana Collection), NES SNK 1989 USA....",7242,97064,Oval SOQ TM] (The Indiana Collection,Guerrilla War,9.4,A+,SEALED,False
+2021-04-05,1140.0,"Guerrilla War - Wata 9.4 A+ Sealed [Oval SOQ TM] (The Indiana Collection), NES SNK 1989 USA....",7242,97064,Oval SOQ TM The Indiana Collection,Guerrilla War,9.4,A+,SEALED,False
 2020-07-27,288.0,"Predator: Concrete Jungle - Wata 9.8 A+ Sealed, PS2 Vivendi Universal 2005 USA....",122030,17907,,Predator: Concrete Jungle,9.8,A+,SEALED,False
 2020-11-20,30000.0,"Zelda II: The Adventure of Link - Wata 9.6 A+ Sealed [Rev-A, Round SOQ, Early Production], NES Nintendo 1988 USA....",7236,93040,"Rev-A, Round SOQ, Early Production",Zelda II: The Adventure of Link,9.6,A+,SEALED,False
 2020-03-08,720.0,Batman [Oval SOQ TM] Wata 9.0 A Sealed NES Sunsoft 1990 USA....,7224,97007,Oval SOQ TM,Batman,9.0,A,SEALED,False
@@ -434,7 +434,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2021-04-05,1200.0,"Return Fire - Wata 9.4 A+ Sealed [Ridged Longbox], PS1 Time Warner 1996 USA....",7242,97250,Ridged Longbox,Return Fire,9.4,A+,SEALED,False
 2019-11-24,1680.0,"Tetris [Oval SOQ R, ""Red Box Warranty""] - Carolina Collection Wata 9.6 A+ Sealed NES Nintendo 1989 USA....",7212,97223,"Oval SOQ R, ""Red Box Warranty""",Tetris  - Carolina Collection,9.6,A+,SEALED,False
 2020-11-20,1320.0,"Kirby's Avalanche (Prototype) - Wata Certified Prototype, SNES Nintendo 1995 USA....",7236,93044,Prototype,Kirby's Avalanche,,,,False
-2020-09-13,3360.0,"Zelda II: The Adventure of Link - Wata 7.5 B+ Sealed [Rev-A, Round SOQ, Early Production] (Atwood Collection), NES Nintendo 19...",7234,97105,"Rev-A, Round SOQ, Early Production] (Atwood Collection",Zelda II: The Adventure of Link,7.5,B+,SEALED,False
+2020-09-13,3360.0,"Zelda II: The Adventure of Link - Wata 7.5 B+ Sealed [Rev-A, Round SOQ, Early Production] (Atwood Collection), NES Nintendo 19...",7234,97105,"Rev-A, Round SOQ, Early Production Atwood Collection",Zelda II: The Adventure of Link,7.5,B+,SEALED,False
 2020-11-22,480.0,"The Legend of Zelda: Collector's Edition (NFR) - Wata 9.2 A Sealed, G.Cube Nintendo 2003 USA....",7236,97191,NFR,The Legend of Zelda: Collector's Edition,9.2,A,SEALED,False
 2019-02-23,1140.0,"Power Blade 2 (NES, Taito, 1992) Wata 8.0 CIB (Complete in Box). Box 8.0, Cartridge 7.5, Manual 8.5....",7204,94437,"NES, Taito, 1992, Complete in Box",Power Blade 2,,,,False
 2021-01-18,144.0,"Carnival - Wata 9.6 NS Glue Seal [1982 Blue box], INTV Coleco 1982 USA. ...",122103,15894,1982 Blue box,Carnival,9.6,,GLUE SEAL,False
@@ -450,7 +450,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2020-12-07,900.0,"Yoshi's Story - Wata 9.4 A++ Sealed, N64 Nintendo 1997 USA. ...",122049,11727,,Yoshi's Story,9.4,A++,SEALED,False
 2021-05-25,1560.0,"Yu-Gi-Oh!: Dark Duel Stories - Wata 8.5 A+ Sealed, GBC Konami 2002 USA. ...",312121,69057,,Yu-Gi-Oh!: Dark Duel Stories,8.5,A+,SEALED,False
 2021-06-29,360.0,"The Ultimate Stuntman - Wata 9.0 B Sealed [Star box], NES Camerica 1990 USA. ...",312126,70038,Star box,The Ultimate Stuntman,9.0,B,SEALED,False
-2020-08-31,162.0,"Raid on Bungeling Bay - Wata 7.0 CIB [Hangtab, First Production], NES Broderbund 1987 USA.[NES] (Various, 1987)....",122035,19763,"Hangtab, First Production], NES Broderbund 1987 USA.[NES] (Various, 1987",Raid on Bungeling Bay,7.0,,CIB,False
+2020-08-31,162.0,"Raid on Bungeling Bay - Wata 7.0 CIB [Hangtab, First Production], NES Broderbund 1987 USA.[NES] (Various, 1987)....",122035,19763,"Hangtab, First Production, NES Broderbund 1987 USA.NES Various, 1987",Raid on Bungeling Bay,7.0,,CIB,False
 2019-02-03,336.0,"Star Trek: 25th Anniversary (NES, Ultra, 1992) Wata 9.8 A+ (Seal Rating)....",121905,11854,"NES, Ultra, 1992, Seal Rating",Star Trek: 25th Anniversary,,,,False
 2021-06-15,1020.0,"Haunting Ground - Wata 9.6 A+ Sealed, PS2 Capcom 2005 USA. ...",312124,68102,,Haunting Ground,9.6,A+,SEALED,False
 2020-05-03,1440.0,"Tetris [Oval SOQ TM, Early Production] Wata 9.2 A Sealed NES Nintendo 1989 USA....",7229,97193,"Oval SOQ TM, Early Production",Tetris,9.2,A,SEALED,False
@@ -507,7 +507,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2021-07-09,144000.0,"Super Mario Bros. - Wata 9.6 A+ Sealed [Oval SOQ R, Later Production], NES Nintendo 1985 USA. ...",7261,28056,"Oval SOQ R, Later Production",Super Mario Bros.,9.6,A+,SEALED,False
 2021-07-27,1320.0,"Donkey Kong - Wata 9.2 A++ Sealed [1988 Silver Box], 7800 Atari 1988 USA....",312130,69028,1988 Silver Box,Donkey Kong,9.2,A++,SEALED,False
 2020-09-13,600.0,"Dig Dug - Wata 9.6 A++ Sealed [1988 Silver Box], 2600 Atari 1983 USA....",7234,97009,1988 Silver Box,Dig Dug,9.6,A++,SEALED,False
-2021-05-18,1140.0,"Kickle Cubicle - Wata 9.4 A+ Sealed [Oval SOQ R] (The Carolina Collection), NES IREM 1990 USA....",312120,68031,Oval SOQ R] (The Carolina Collection,Kickle Cubicle,9.4,A+,SEALED,False
+2021-05-18,1140.0,"Kickle Cubicle - Wata 9.4 A+ Sealed [Oval SOQ R] (The Carolina Collection), NES IREM 1990 USA....",312120,68031,Oval SOQ R The Carolina Collection,Kickle Cubicle,9.4,A+,SEALED,False
 2019-01-13,144.0,"Popeye (NES, Nintendo, 1986) Wata 8.0 CIB (Complete in Box)....",121902,12221,"NES, Nintendo, 1986, Complete in Box",Popeye,,,,False
 2020-11-30,492.0,"Adventure - Wata 6.5 NS Glue Seal [1978 Orange box], 2600 Atari 1980 USA. ...",122048,19620,1978 Orange box,Adventure,6.5,,GLUE SEAL,False
 2020-03-08,552.0,Halo: Reach Wata Certified Prototype Xbox 360 Microsoft 2010 USA....,7224,97106,,Halo: Reach,,,,False
@@ -751,7 +751,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2020-07-12,630.0,"River Raid - Wata 9.2 A+ Sealed, 2600 ActiVision 1982 USA....",7231,97014,,River Raid,9.2,A+,SEALED,False
 2020-04-06,114.0,Yoshi's Cookie Wata 6.0 B+ Sealed NES Nintendo 1993 USA....,122014,11789,,Yoshi's Cookie,6.0,B+,SEALED,False
 2020-12-14,504.0,"Super Mario Bros. 2 - Wata 7.5 CIB [Rev-A, Round SOQ], NES Nintendo 1988 USA. ...",122050,13889,"Rev-A, Round SOQ",Super Mario Bros. 2,7.5,,CIB,False
-2021-07-09,5760.0,"Batman: Return of the Joker - Wata 9.6 A++ Sealed [Oval SOQ TM] (Carolina Collection), NES Sunsoft 1990 USA....",7261,28008,Oval SOQ TM] (Carolina Collection,Batman: Return of the Joker,9.6,A++,SEALED,False
+2021-07-09,5760.0,"Batman: Return of the Joker - Wata 9.6 A++ Sealed [Oval SOQ TM] (Carolina Collection), NES Sunsoft 1990 USA....",7261,28008,Oval SOQ TM Carolina Collection,Batman: Return of the Joker,9.6,A++,SEALED,False
 2020-12-21,1080.0,"Paper Mario - Wata 7.5 B+ Sealed, N64 Nintendo 2000 USA....",122051,16105,,Paper Mario,7.5,B+,SEALED,False
 2020-12-14,408.0,"The Incredible Hulk: The Pantheon Saga - Wata 9.6 A Sealed, Saturn Eidos 1997 USA....",122050,13915,,The Incredible Hulk: The Pantheon Saga,9.6,A,SEALED,False
 2019-07-28,150.0,"Captain America and the Avengers (Genesis, Data East, 1992, USA) Wata 8.5 CIB, Box 9.0, Cart 7.0, Manual 9.2, GSI: Collector P...",121930,17261,"Genesis, Data East, 1992, USA",Captain America and the Avengers,8.5,,CIB,False
@@ -1101,7 +1101,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2021-07-13,1200.0,"James Bond 007: The Duel - Wata 9.6 A++ Sealed, GEN Domark 1993 USA....",312128,67054,,James Bond 007: The Duel,9.6,A++,SEALED,False
 2021-07-09,8400.0,"Kirby Super Star - Wata 9.0 A+ Sealed [Made in Japan], SNES Nintendo 1996 USA....",7261,28078,Made in Japan,Kirby Super Star,9.0,A+,SEALED,False
 2020-07-10,4800.0,"Tetris - Wata 9.2 A+ Sealed, GB Nintendo 1989 USA....",7231,93047,,Tetris,9.2,A+,SEALED,False
-2021-03-23,384.0,"Chip 'n Dale: Rescue Rangers 2 - Wata 6.0 CIB [Oval SOQ R] (The Carolina Collection), NES Capcom 1994 USA....",312112,69034,Oval SOQ R] (The Carolina Collection,Chip 'n Dale: Rescue Rangers 2,6.0,,CIB,False
+2021-03-23,384.0,"Chip 'n Dale: Rescue Rangers 2 - Wata 6.0 CIB [Oval SOQ R] (The Carolina Collection), NES Capcom 1994 USA....",312112,69034,Oval SOQ R The Carolina Collection,Chip 'n Dale: Rescue Rangers 2,6.0,,CIB,False
 2020-09-11,6000.0,"Masters of the Universe: The Power of He-Man - Wata 9.0 A++ Sealed, 2600 Mattel 1983 USA....",7234,93008,,Masters of the Universe: The Power of He-Man,9.0,A++,SEALED,False
 2019-12-15,588.0,Double Dragon V: The Shadow Falls Wata 9.6 A+ Sealed SNES Tradewest 1994 USA....,121950,15251,,Double Dragon V: The Shadow Falls,9.6,A+,SEALED,False
 2021-03-16,264.0,"Judge Dredd - Wata 9.6 A++ Sealed, GEN Acclaim 1995 USA. ...",312111,68060,,Judge Dredd,9.6,A++,SEALED,False
@@ -1118,7 +1118,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2021-04-13,660.0,"Contra - Wata 7.0 CIB [Rev-A, Round SOQ], NES Konami 1988 USA. ...",312115,67031,"Rev-A, Round SOQ",Contra,7.0,,CIB,False
 2020-04-27,336.0,"Marvel Super Heroes In War of the Gems - Wata 8.0 A Sealed, SNES Capcom 1996 USA....",122017,17712,,Marvel Super Heroes In War of the Gems,8.0,A,SEALED,False
 2021-07-06,114.0,"Missile Command - Wata 9.4 A++ Sealed [1987 Orange box], 2600 Atari 1981 USA....",312127,66010,1987 Orange box,Missile Command,9.4,A++,SEALED,False
-2019-03-03,168.0,"Metroid Prime [NFR] (GameCube, Nintendo, 2006) Wata 9.4 A+ (Seal Rating)....",121909,11342,"NFR] (GameCube, Nintendo, 2006, Seal Rating",Metroid Prime,,,,False
+2019-03-03,168.0,"Metroid Prime [NFR] (GameCube, Nintendo, 2006) Wata 9.4 A+ (Seal Rating)....",121909,11342,"NFR GameCube, Nintendo, 2006, Seal Rating",Metroid Prime,,,,False
 2021-06-15,84.0,"Secret Quest - Wata 9.4 A+ Sealed [1989 Red box], 2600 Atari 1989 USA. ...",312124,68014,1989 Red box,Secret Quest,9.4,A+,SEALED,False
 2021-03-16,276.0,"Donkey Kong - Wata 7.0 A+ Sealed [1988 Silver box], 7800 Atari 1988 USA. ...",312111,68032,1988 Silver box,Donkey Kong,7.0,A+,SEALED,False
 2021-07-11,4080.0,"Ninja Gaiden Trilogy - Wata 9.4 A++ Sealed [Made in Mexico], SNES Tecmo 1995 USA....",7261,29106,Made in Mexico,Ninja Gaiden Trilogy,9.4,A++,SEALED,False
@@ -1207,7 +1207,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2020-07-20,104.0,"Dick Tracy - Wata 6.0 B+ Sealed, NES Bandai 1990 USA....",122029,15827,,Dick Tracy,6.0,B+,SEALED,False
 2020-06-22,109.0,"Air Fortress - Wata 9.0 B+ Sealed, NES HAL 1989 USA....",122025,17953,,Air Fortress,9.0,B+,SEALED,False
 2021-03-16,300.0,"Dragon Ball Z: Ulitmate Battle 22 - Wata 9.6 A++ Sealed [Sony Security Label], PS1 Atari 2003 USA. ...",312111,68071,Sony Security Label,Dragon Ball Z: Ulitmate Battle 22,9.6,A++,SEALED,False
-2020-12-07,216.0,"Dragon Warrior - Wata 8.0 A+ Sealed [Rev-A, Oval SOQ TM], NES Nintendo (Various, 1989)....",122049,11704,"Rev-A, Oval SOQ TM], NES Nintendo (Various, 1989",Dragon Warrior,8.0,A+,SEALED,False
+2020-12-07,216.0,"Dragon Warrior - Wata 8.0 A+ Sealed [Rev-A, Oval SOQ TM], NES Nintendo (Various, 1989)....",122049,11704,"Rev-A, Oval SOQ TM, NES Nintendo Various, 1989",Dragon Warrior,8.0,A+,SEALED,False
 2019-03-24,301.2,"Pesterminator (NES, Color Dreams, 1990) Wata 6.0 B+ (Seal Rating)....",121912,15276,"NES, Color Dreams, 1990, Seal Rating",Pesterminator,,,,False
 2020-09-14,240.0,"Commando - Wata 9.4 A+ Sealed [Green Box], 2600 Activision 1988 USA...",122037,13820,Green Box,Commando,9.4,A+,SEALED,False
 2020-05-25,240.0,"Metroid (Classic NES Series) - Wata 9.4 A+ Sealed, GBA Nintendo 2004 USA....",122021,17810,Classic NES Series,Metroid,9.4,A+,SEALED,False
@@ -1229,7 +1229,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2020-10-26,192.0,"Buzz Bombers - Wata 9.4 A++ Sealed [1983 Green Box], INTV Mattel Electronics 1983 USA. ...",122043,18005,1983 Green Box,Buzz Bombers,9.4,A++,SEALED,False
 2021-08-10,210.0,"M*A*S*H - Wata 7.5 NS Glue Seal [1983 Black Box], 2600 20th Century Fox 1982 USA....",312132,67010,1983 Black Box,M*A*S*H,7.5,,GLUE SEAL,False
 2021-05-04,960.0,"The Legend of Zelda: A Link to the Past and Four Swords - Wata 8.5 A+ Sealed, GBA Nintendo 2003 USA. ...",312118,66048,,The Legend of Zelda: A Link to the Past and Four Swords,8.5,A+,SEALED,False
-2020-07-13,204.0,"Wrecking Crew - Wata 7.5 CIB [Rev-A, Round SOQ, Mid-Production] (Carolina Collection), NES Nintendo 1985 USA....",122028,13843,"Rev-A, Round SOQ, Mid-Production] (Carolina Collection",Wrecking Crew,7.5,,CIB,False
+2020-07-13,204.0,"Wrecking Crew - Wata 7.5 CIB [Rev-A, Round SOQ, Mid-Production] (Carolina Collection), NES Nintendo 1985 USA....",122028,13843,"Rev-A, Round SOQ, Mid-Production Carolina Collection",Wrecking Crew,7.5,,CIB,False
 2020-08-31,120.0,"Tron: Deadly Discs - Wata 7.5 A++ Sealed, 2600 M-Network 1982 USA....",122035,19771,,Tron: Deadly Discs,7.5,A++,SEALED,False
 2021-07-27,144.0,"Piglet's Big Game - Wata 9.6 A++ Sealed, GBA Disney 2003 USA....",312130,69069,,Piglet's Big Game,9.6,A++,SEALED,False
 2021-07-20,4560.0,"Super Mario Bros. 3 - Wata 7.5 A+ Sealed [""Bros."" Right, Later Production], NES Nintendo 1990 USA....",312129,68051,"""Bros."" Right, Later Production",Super Mario Bros. 3,7.5,A+,SEALED,False
@@ -1334,7 +1334,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2021-05-11,1440.0,"Spider-Man and X-Men in Arcade's Revenge - Wata 9.4 A Sealed, GEN Flying Edge 1993 USA. ...",312119,67068,,Spider-Man and X-Men in Arcade's Revenge,9.4,A,SEALED,False
 2020-02-17,192.0,Resident Evil Code: Veronica Wata 9.2 A Sealed D.Cast Capcom 2000 USA....,122007,16073,,Resident Evil Code: Veronica,9.2,A,SEALED,False
 2019-08-03,1260.0,"Hogan's Alley (NES, Nintendo, 1985) Wata 9.2 B+ (Seal Rating) Variant: 8th Revision, Rev-A, Round SOQ....",7211,95529,"NES, Nintendo, 1985, Seal Rating",Hogan's Alley,,,,True
-2020-09-13,1200.0,"Castlevania II: Simon's Quest - Wata 8.0 A Sealed [Oval SOQ TM, Later Production] (Atwood Collection), NES Konami 1988 USA....",7234,97061,"Oval SOQ TM, Later Production] (Atwood Collection",Castlevania II: Simon's Quest,8.0,A,SEALED,False
+2020-09-13,1200.0,"Castlevania II: Simon's Quest - Wata 8.0 A Sealed [Oval SOQ TM, Later Production] (Atwood Collection), NES Konami 1988 USA....",7234,97061,"Oval SOQ TM, Later Production Atwood Collection",Castlevania II: Simon's Quest,8.0,A,SEALED,False
 2021-07-13,480.0,"Desert Commander - Wata 9.4 A+ Sealed, NES Kemco-Seika 1989 USA....",312128,67018,,Desert Commander,9.4,A+,SEALED,False
 2021-02-15,120.0,"Dig Dug - Wata 9.4 A++ Sealed [1987 Silver box], 7800 Atari 1986 USA. ...",122107,16017,1987 Silver box,Dig Dug,9.4,A++,SEALED,False
 2020-08-17,126.0,"Defender - Wata 7.5 NS Sealed [Blue box], Atari 2600 Atari 1982 USA....",122033,15742,Blue box,Defender,7.5,,SEALED,False
@@ -1357,7 +1357,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2019-11-24,2280.0,Double Dragon III: The Sacred Stones - Carolina Collection Wata 9.6 A+ Sealed NES Acclaim 1991....,7212,97079,,Double Dragon III: The Sacred Stones - Carolina Collection,9.6,A+,SEALED,False
 2019-07-07,384.0,"The Legend of Zelda (NES, Nintendo, 1987) Wata 6.5 B+ (Seal Rating) Variant: Classic Series....",121927,11317,"NES, Nintendo, 1987, Seal Rating",The Legend of Zelda,,,,True
 2020-09-11,1620.0,"Breath of Fire - Wata 9.4 A+ Sealed, SNES Squaresoft 1994 USA....",7234,93038,,Breath of Fire,9.4,A+,SEALED,False
-2021-07-09,14400.0,"Mighty Final Fight - Wata 9.6 A+ Sealed [Oval SOQ R] (Carolina Collection), NES Capcom 1993 USA....",7261,28036,Oval SOQ R] (Carolina Collection,Mighty Final Fight,9.6,A+,SEALED,False
+2021-07-09,14400.0,"Mighty Final Fight - Wata 9.6 A+ Sealed [Oval SOQ R] (Carolina Collection), NES Capcom 1993 USA....",7261,28036,Oval SOQ R Carolina Collection,Mighty Final Fight,9.6,A+,SEALED,False
 2021-05-25,720.0,"Pinball - Wata 7.0 CIB [Matte Sticker, US Test Market], NES Nintendo 1985 USA. ...",312121,69047,"Matte Sticker, US Test Market",Pinball,7.0,,CIB,False
 2021-03-09,480.0,"Superman - Wata 6.0 CIB [1979 Red box], 2600 Atari 1978 USA. ...",312110,67021,1979 Red box,Superman,6.0,,CIB,False
 2020-05-18,228.0,"Super C - Wata 4.5 A Sealed, NES Konami 1990 USA....",122020,15761,,Super C,4.5,A,SEALED,False
@@ -1496,7 +1496,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2021-08-31,432.0,"Mat Hoffman's Pro BMX - Wata 9.6 A+ Sealed [Sony Security Label, Promotional Copy, UPC Punched], PS1 Activision 2001 USA....",312135,70084,"Sony Security Label, Promotional Copy, UPC Punched",Mat Hoffman's Pro BMX,9.6,A+,SEALED,False
 2019-11-24,2340.0,"The Legend of Kage [Rev-A, Round SOQ] - Carolina Collection Wata 9.6 A++ Sealed NES Taito 1987 USA....",7212,97134,"Rev-A, Round SOQ",The Legend of Kage  - Carolina Collection,9.6,A++,SEALED,False
 2019-12-08,40.0,Sonic the Hedgehog Spinball [GA Rating] Wata 9.2 C+ GEN Sega 1993 USA....,121949,13199,GA Rating,Sonic the Hedgehog Spinball,9.2,C+,,False
-2020-09-13,2040.0,"Commando - Wata 9.0 A Sealed [Rev-A, Round SOQ] (Atwood Collection), NES Capcom 1986 USA....",7234,97063,"Rev-A, Round SOQ] (Atwood Collection",Commando,9.0,A,SEALED,False
+2020-09-13,2040.0,"Commando - Wata 9.0 A Sealed [Rev-A, Round SOQ] (Atwood Collection), NES Capcom 1986 USA....",7234,97063,"Rev-A, Round SOQ Atwood Collection",Commando,9.0,A,SEALED,False
 2021-04-05,432.0,"Burai Fighter Deluxe - Wata 8.0 A+ Sealed, GB TAXAN 1991 USA....",7242,97143,,Burai Fighter Deluxe,8.0,A+,SEALED,False
 2021-07-20,4080.0,"Mario Bros. - Wata 9.4 A Sealed [1983 Silver Box], 7800 Atari 1988 USA....",312129,68029,1983 Silver Box,Mario Bros.,9.4,A,SEALED,False
 2020-05-03,840.0,720° [Oval SOQ TM] Wata 9.6 A Sealed NES Mindscape 1989 USA....,7229,97168,Oval SOQ TM,720°,9.6,A,SEALED,False
@@ -1559,7 +1559,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2021-03-23,114.0,"Tron Maze-a-Tron - Wata 8.5 A++ Sealed [1982 Red box], INTV Mattel Electronics 1982 USA. ...",312112,69019,1982 Red box,Tron Maze-a-Tron,8.5,A++,SEALED,False
 2020-05-18,138.0,"Spot: The Video Game! - Wata 8.5 A+ Sealed, GB Virgin 1991 USA....",122020,15768,,Spot: The Video Game!,8.5,A+,SEALED,False
 2021-07-11,2640.0,"Kingdom Hearts - Wata 9.6 A+ Sealed [Sony Security Label], PS2 Squaresoft 2002 USA. ...",7261,29301,Sony Security Label,Kingdom Hearts,9.6,A+,SEALED,False
-2021-01-17,1140.0,"Bill & Ted's Excellent Adventure - Wata 9.6 A+ Sealed [Oval SOQ R] (Indiana Collection), NES LJN 1991 USA. ...",7239,97024,Oval SOQ R] (Indiana Collection,Bill & Ted's Excellent Adventure,9.6,A+,SEALED,False
+2021-01-17,1140.0,"Bill & Ted's Excellent Adventure - Wata 9.6 A+ Sealed [Oval SOQ R] (Indiana Collection), NES LJN 1991 USA. ...",7239,97024,Oval SOQ R Indiana Collection,Bill & Ted's Excellent Adventure,9.6,A+,SEALED,False
 2020-01-20,216.0,Swamp Thing Wata 7.5 CIB NES THQ 1992 USA....,122003,15971,,Swamp Thing,7.5,,CIB,False
 2019-11-24,504.0,Zelda II: The Adventure of Link [PAL A] - Carolina Collection Wata 7.5 A++ Sealed NES Nintendo 1989 UKV....,7212,97258,PAL A,Zelda II: The Adventure of Link  - Carolina Collection,7.5,A++,SEALED,False
 2021-07-06,900.0,"Grand Theft Auto V - Wata 9.8 A++ Sealed [Microsoft Security Label], Xbox360 Rockstar 2013 USA....",312127,66095,Microsoft Security Label,Grand Theft Auto V,9.8,A++,SEALED,False
@@ -1596,7 +1596,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2020-07-12,264.0,"Lunar Pool - Wata 8.0 A+ Sealed [Rev-A, Round SOQ, Later Production], NES FCI 1987 USA....",7231,97074,"Rev-A, Round SOQ, Later Production",Lunar Pool,8.0,A+,SEALED,False
 2020-11-30,216.0,"F-Zero (Player's Choice) - Wata 9.6 A++ Sealed, SNES Nintendo 1991 USA. ...",122048,19667,Player's Choice,F-Zero,9.6,A++,SEALED,False
 2019-11-24,960.0,Ms. Pac-Man - Carolina Collection Wata 9.6 A+ Sealed NES Namco 1993 USA....,7212,97159,,Ms. Pac-Man - Carolina Collection,9.6,A+,SEALED,False
-2020-09-13,4560.0,"Super Mario Bros. 3 - Wata 9.0 A Sealed [""Bros"" Right, Later Production] (Atwood Collection), NES Nintendo 1990 USA....",7234,97097,"""Bros"" Right, Later Production] (Atwood Collection",Super Mario Bros. 3,9.0,A,SEALED,False
+2020-09-13,4560.0,"Super Mario Bros. 3 - Wata 9.0 A Sealed [""Bros"" Right, Later Production] (Atwood Collection), NES Nintendo 1990 USA....",7234,97097,"""Bros"" Right, Later Production Atwood Collection",Super Mario Bros. 3,9.0,A,SEALED,False
 2021-05-18,65.0,"Commando - Wata 7.0 A++ Sealed [1985 Green box], 2600 Activision 1988 USA. ...",312120,68003,1985 Green box,Commando,7.0,A++,SEALED,False
 2021-04-05,5760.0,"Ecco the Dolphin - Wata 9.8 A+ Sealed, GEN Sega 1992 USA....",7242,97197,,Ecco the Dolphin,9.8,A+,SEALED,False
 2021-01-11,104.0,"Defender - Wata 9.2 NS Glue Seal [1982 Blue box], 2600 Atari 1982 USA. ...",122102,13730,1982 Blue box,Defender,9.2,,GLUE SEAL,False
@@ -1996,7 +1996,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2019-02-24,94.0,"Halo 2 (Xbox, Microsoft, 2004) Wata 9.6 A+ (Seal Rating)....",121908,15310,"Xbox, Microsoft, 2004, Seal Rating",Halo 2,,,,False
 2021-06-08,312.0,"Metal Gear - Wata 8.5 CIB [Rev-A, Round SOQ], NES Ultra 1988 USA. ...",312123,66037,"Rev-A, Round SOQ",Metal Gear,8.5,,CIB,False
 2021-01-17,6600.0,"Super Mario 64 - Wata 7.5 A+ Sealed, N64 Nintendo 1996 USA. ...",7239,97069,,Super Mario 64,7.5,A+,SEALED,False
-2021-07-11,2400.0,"Dig Dug II - Wata 9.8 A+ Sealed [Oval SOQ TM] (The Indiana Collection), NES Bandai 1989 USA. ...",7261,29027,Oval SOQ TM] (The Indiana Collection,Dig Dug II,9.8,A+,SEALED,False
+2021-07-11,2400.0,"Dig Dug II - Wata 9.8 A+ Sealed [Oval SOQ TM] (The Indiana Collection), NES Bandai 1989 USA. ...",7261,29027,Oval SOQ TM The Indiana Collection,Dig Dug II,9.8,A+,SEALED,False
 2020-09-21,1020.0,"Samurai Western - Wata 9.8 A++ Sealed, PS2 Atlus 2005 USA. ...",122038,15814,,Samurai Western,9.8,A++,SEALED,False
 2021-07-11,4320.0,"Silent Hill - Wata 9.2 B+ Sealed [Sony Security Label], PS1 Konami 1999 USA. ...",7261,28168,Sony Security Label,Silent Hill,9.2,B+,SEALED,False
 2020-12-28,360.0,"The Adventures of Batman & Robin - Wata 9.6 B+ Sealed, SegaCD Sega 1990 USA. ...",122052,17620,,The Adventures of Batman & Robin,9.6,B+,SEALED,False
@@ -2125,7 +2125,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2021-08-17,384.0,"James Pond: Underwater Agent - Wata 9.2 A++ Sealed [EA Paper Box], GEN Electronic Arts 1991 USA ...",312133,68074,EA Paper Box,James Pond: Underwater Agent,9.2,A++,SEALED,False
 2020-12-21,384.0,"Clay Fighter 2: C2 Judgment Clay - Wata 9.8 A++ Sealed, SNES Interplay 1995 USA....",122051,16096,,Clay Fighter 2: C2 Judgment Clay,9.8,A++,SEALED,False
 2020-07-12,2160.0,"Tetris - Wata 9.6 A+ Sealed [Oval SOQ TM], NES Nintendo 1989 USA....",7231,97124,Oval SOQ TM,Tetris,9.6,A+,SEALED,False
-2021-04-06,240.0,"Silent Assault - Wata 9.4 A++ Sealed [US Version] (The Indiana Collection), NES Color Dreams 1990 USA. ...",312114,66038,US Version] (The Indiana Collection,Silent Assault,9.4,A++,SEALED,False
+2021-04-06,240.0,"Silent Assault - Wata 9.4 A++ Sealed [US Version] (The Indiana Collection), NES Color Dreams 1990 USA. ...",312114,66038,US Version The Indiana Collection,Silent Assault,9.4,A++,SEALED,False
 2019-11-24,720.0,The Three Stooges [Oval SOQ TM] - Carolina Collection Wata 9.6 A+ Sealed NES ActiVision 1989 USA....,7212,97227,Oval SOQ TM,The Three Stooges  - Carolina Collection,9.6,A+,SEALED,False
 2021-04-13,111.0,"Star Strike - Wata 9.6 A++ Sealed [1981 Blue box], INTV Mattel 1981 USA. ...",312115,67028,1981 Blue box,Star Strike,9.6,A++,SEALED,False
 2020-06-22,192.0,"BurgerTime - Wata 9.0 A++ Sealed, 2600 M-Network 1982 USA....",122025,17946,,BurgerTime,9.0,A++,SEALED,False
@@ -2154,7 +2154,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2020-05-25,252.0,"Shadowgate - Wata 9.0 B+ Sealed, NES Kemco-Seika 1989 USA....",122021,17800,,Shadowgate,9.0,B+,SEALED,False
 2020-08-03,336.0,"BurgerTime - Wata 9.4 A+ Sealed, 2600 M-Network 1982 USA....",122031,11704,,BurgerTime,9.4,A+,SEALED,False
 2020-08-17,186.0,"Kid Kool -Wata 7.0 B+ Sealed [Oval SOQ TM], NES Vic Tokai 1990 USA. ...",122033,15764,Oval SOQ TM,Kid Kool -,7.0,B+,SEALED,False
-2021-04-05,1020.0,"Dungeon Magic: Sword of the Elements - Wata 9.6 A+ Sealed [Oval SOQ R] (The Indiana Collection), NES Taito 1990 USA....",7242,97057,Oval SOQ R] (The Indiana Collection,Dungeon Magic: Sword of the Elements,9.6,A+,SEALED,False
+2021-04-05,1020.0,"Dungeon Magic: Sword of the Elements - Wata 9.6 A+ Sealed [Oval SOQ R] (The Indiana Collection), NES Taito 1990 USA....",7242,97057,Oval SOQ R The Indiana Collection,Dungeon Magic: Sword of the Elements,9.6,A+,SEALED,False
 2020-03-06,1140.0,Final Fantasy Wata 7.5 A Sealed NES Nintendo 1990 USA....,7224,93014,,Final Fantasy,7.5,A,SEALED,False
 2020-07-13,456.0,"Vectorman 2 - Wata 9.6 A++ Sealed, GEN Sega 1996 USA. ...",122028,13875,,Vectorman 2,9.6,A++,SEALED,False
 2021-07-11,960.0,"Metal Gear Solid - Wata 8.0 A+ Sealed, GBC Konami 2000 USA. ...",7261,29166,,Metal Gear Solid,8.0,A+,SEALED,False
@@ -2294,7 +2294,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2020-06-22,810.0,"The Adventures of Gilligan's Island - Wata 9.4 A+ Sealed, NES Bandai 1990 USA....",122025,17952,,The Adventures of Gilligan's Island,9.4,A+,SEALED,False
 2020-12-07,120.0,"Panzer General - Wata 7.5 B+ Sealed, PS1 SSI 1994 USA. ...",122049,11747,,Panzer General,7.5,B+,SEALED,False
 2019-10-06,456.0,"Duck Hunt [Matte Sticker, First Release] Wata 6.0 CIB NES, Nintendo, 1990, USA....",121940,11307,"Matte Sticker, First Release",Duck Hunt,6.0,,CIB,False
-2021-04-05,576.0,"Gemfire - Wata 9.4 CIB [Oval SOQ R] (The Carolina Collection), NES Koei 1992 USA....",7242,97062,Oval SOQ R] (The Carolina Collection,Gemfire,9.4,,CIB,False
+2021-04-05,576.0,"Gemfire - Wata 9.4 CIB [Oval SOQ R] (The Carolina Collection), NES Koei 1992 USA....",7242,97062,Oval SOQ R The Carolina Collection,Gemfire,9.4,,CIB,False
 2021-08-03,1020.0,"Pele's Soccer - Wata 6.5 NS Glue Seal [1981 Green Box], 2600 Atari 1980 USA....",312131,66034,1981 Green Box,Pele's Soccer,6.5,,GLUE SEAL,False
 2019-11-24,432.0,"MagMax [Rev-A, Round SOQ] Carolina Collection Wata 9.4 A Sealed NES FCI 1988 USA....",7212,97142,"Rev-A, Round SOQ",MagMax  Carolina Collection,9.4,A,SEALED,False
 2021-05-18,240.0,"River Raid - Wata 9.4 A++ Sealed [1982 Burgundy box], 2600 Activision 1982 USA. ...",312120,68012,1982 Burgundy box,River Raid,9.4,A++,SEALED,False
@@ -2302,7 +2302,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2020-12-28,120.0,"Biohazard 2 - Wata 9.2 NS No Seal, NES Capcom 1999 JPN....",122052,17612,,Biohazard 2,9.2,,NO SEAL,False
 2020-01-27,138.0,"Pro Wrestling [No Rev-A, Mid-Production] Wata 7.5 CIB NES Nintendo 1987 USA....",122004,17998,"No Rev-A, Mid-Production",Pro Wrestling,7.5,,CIB,False
 2019-01-13,41.0,"Super Metroid (NES, Nintendo, 1994) Wata 8.5 Cartridge (Loose)....",121902,12230,"NES, Nintendo, 1994, Loose",Super Metroid,,,,False
-2021-04-02,28800.0,"Metal Gear - Wata 9.8 A+ Sealed [Rev-A, Round SOQ] (Carolina Collection), NES Ultra 1988 USA....",7242,93021,"Rev-A, Round SOQ] (Carolina Collection",Metal Gear,9.8,A+,SEALED,False
+2021-04-02,28800.0,"Metal Gear - Wata 9.8 A+ Sealed [Rev-A, Round SOQ] (Carolina Collection), NES Ultra 1988 USA....",7242,93021,"Rev-A, Round SOQ Carolina Collection",Metal Gear,9.8,A+,SEALED,False
 2020-12-14,264.0,"Raiders of the Lost Ark - Wata 9.4 NS Glue Seal [1982 Silver box], 2600 Atari 1982 USA. ...",122050,13856,1982 Silver box,Raiders of the Lost Ark,9.4,,GLUE SEAL,False
 2021-08-03,780.0,"Superman: The Man of Steel - Wata 9.8 A+ Sealed [Microsoft Security Label], Xbox Atari 2002 USA....",312131,66108,Microsoft Security Label,Superman: The Man of Steel,9.8,A+,SEALED,False
 2020-11-23,222.0,"Wipeout - Wata 8.5 B Sealed, PS1 Psygnosis 1995 USA. ...",122047,17836,,Wipeout,8.5,B,SEALED,False
@@ -2339,7 +2339,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2021-07-27,144.0,"Batman Returns - Wata 8.5 B+ Sealed, MegaCD Sega 1993 EUR....",312130,69085,,Batman Returns,8.5,B+,SEALED,False
 2020-07-12,900.0,"Tetris 2 - Wata 9.6 A+ Sealed, NES Nintendo 1993 USA....",7231,97127,,Tetris 2,9.6,A+,SEALED,False
 2020-07-27,109.0,"WWF Rage in the Cage - Wata 9.4 CIB, SegaCD Arena 1993 USA....",122030,17904,,WWF Rage in the Cage,9.4,,CIB,False
-2021-04-20,228.0,"Infiltrator - Wata 9.4 A+ Sealed [Oval SOQ TM] (The Indiana Collection), NES Mindscape 1990 USA....",312116,68033,Oval SOQ TM] (The Indiana Collection,Infiltrator,9.4,A+,SEALED,False
+2021-04-20,228.0,"Infiltrator - Wata 9.4 A+ Sealed [Oval SOQ TM] (The Indiana Collection), NES Mindscape 1990 USA....",312116,68033,Oval SOQ TM The Indiana Collection,Infiltrator,9.4,A+,SEALED,False
 2019-01-27,99.0,"Spider-Man (N64, ActiVision, 2000) Wata 8.5 B+ (Seal Rating)....",121904,14875,"N64, ActiVision, 2000, Seal Rating",Spider-Man,,,,False
 2020-07-12,810.0,"Final Fight - Wata 9.4 A+ Sealed, SNES Capcom 1991 USA....",7231,97139,,Final Fight,9.4,A+,SEALED,False
 2021-02-01,960.0,"Jaws - Wata 7.0 Cart [5-Screw Cart], NES LJN 1987 USA. ...",122105,12040,5-Screw Cart,Jaws,7.0,,,False
@@ -2536,7 +2536,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2020-07-12,2160.0,"The Karate Kid - Wata 9.8 A++ Sealed [Oval SOQ TM, Later Production], NES LJN 1987 USA....",7231,97066,"Oval SOQ TM, Later Production",The Karate Kid,9.8,A++,SEALED,False
 2020-09-21,84.0,"Circus Atari - Wata 8.5 A+ Sealed, 2600 Atari 1980 USA. ...",122038,15745,,Circus Atari,8.5,A+,SEALED,False
 2019-05-16,1800.0,"Tennis (NES, Nintendo, 1985) Wata 8.0 B+ (Seal Rating) Variant: Rev-A Round SOQ....",7209,92233,"NES, Nintendo, 1985, Seal Rating",Tennis,,,,True
-2021-07-11,1440.0,"Gun.Smoke - Wata 8.0 B+ Sealed, [Captain Commando Sticker, ""Bar"" Art, Early Production] (The Hawaii Collection), NES Capcom 19...",7261,29042,"Captain Commando Sticker, ""Bar"" Art, Early Production] (The Hawaii Collection",Gun.Smoke,8.0,B+,SEALED,False
+2021-07-11,1440.0,"Gun.Smoke - Wata 8.0 B+ Sealed, [Captain Commando Sticker, ""Bar"" Art, Early Production] (The Hawaii Collection), NES Capcom 19...",7261,29042,"Captain Commando Sticker, ""Bar"" Art, Early Production The Hawaii Collection",Gun.Smoke,8.0,B+,SEALED,False
 2021-01-04,1800.0,"Mickey Mousecapade - Wata 9.2 A+ Sealed [Oval SOQ TM], NES Capcom 1988 USA. ...",122101,11702,Oval SOQ TM,Mickey Mousecapade,9.2,A+,SEALED,False
 2021-04-05,7800.0,"Final Fantasy Mystic Quest - Wata 9.6 A+ Sealed [Made in Japan], SNES Squaresoft 1992 USA....",7242,97123,Made in Japan,Final Fantasy Mystic Quest,9.6,A+,SEALED,False
 2020-03-30,94.0,Mega Man X6 Wata 8.0 A Sealed PS1 Capcom 2001 USA....,122013,19945,,Mega Man X6,8.0,A,SEALED,False
@@ -2610,7 +2610,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2021-04-13,71.0,"Asteroids - Wata 6.5 NS No Seal [1981 Red box], 2600 Atari 1981 USA. ...",312115,67003,1981 Red box,Asteroids,6.5,,NO SEAL,False
 2019-09-22,504.0,"Marble Madness Wata 9.4 A Sealed NES, Milton Bradley, 1989, USA....",121938,17323,,Marble Madness,9.4,A,SEALED,False
 2020-05-01,1020.0,Donkey Kong Junior [Red Box] Wata 9.4 A++ Sealed Atari 2600 Atari 1988 USA....,7229,93003,Red Box,Donkey Kong Junior,9.4,A++,SEALED,False
-2021-04-05,2640.0,"Mickey Mousecapade - Wata 9.2 B Sealed [Rev-A, Round SOQ, First Production] (The Hawaii Collection), NES Capcom 1988 USA....",7242,97080,"Rev-A, Round SOQ, First Production] (The Hawaii Collection",Mickey Mousecapade,9.2,B,SEALED,False
+2021-04-05,2640.0,"Mickey Mousecapade - Wata 9.2 B Sealed [Rev-A, Round SOQ, First Production] (The Hawaii Collection), NES Capcom 1988 USA....",7242,97080,"Rev-A, Round SOQ, First Production The Hawaii Collection",Mickey Mousecapade,9.2,B,SEALED,False
 2021-01-17,4080.0,"Pokemon LeafGreen - Wata 9.6 A+ Sealed, GBA Nintendo 2004 USA. ...",7239,97072,,Pokemon LeafGreen,9.6,A+,SEALED,False
 2020-08-10,360.0,"Dragon Warrior - Wata 8.0 A Sealed [1 HP, First Production], NES Nintendo 1989 USA....",122032,13776,"1 HP, First Production",Dragon Warrior,8.0,A,SEALED,False
 2020-03-08,840.0,"WWF WrestleMania [Rev-A, Round SOQ, Early Production] Wata 9.4 A Sealed NES Acclaim 1989 USA....",7224,97063,"Rev-A, Round SOQ, Early Production",WWF WrestleMania,9.4,A,SEALED,False
@@ -2722,7 +2722,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2020-09-21,132.0,"E.T. Digital Companion - Wata 7.5 A+ Sealed, GBC NewKidCo 2001 USA....",122038,15794,,E.T. Digital Companion,7.5,A+,SEALED,False
 2020-11-23,186.0,"Defender - Wata 9.2 NS Glue Seal [1982 Blue box], 2600 Atari 1982 USA. ...",122047,17751,1982 Blue box,Defender,9.2,,GLUE SEAL,False
 2019-10-27,312.0,Kirby's Adventure Wata 9.6 A+ Sealed NES Nintendo 1993 Canada....,121943,17292,,Kirby's Adventure,9.6,A+,SEALED,False
-2019-06-09,192.0,"Halo: Combat Evolved (Xbox, Microsoft, 2001) Wata 9.6 A (Seal Rating) Game of the Year Edition (GOTY)....",121923,13214,"Xbox, Microsoft, 2001, Seal Rating) Game of the Year Edition (GOTY",Halo: Combat Evolved,,,,False
+2019-06-09,192.0,"Halo: Combat Evolved (Xbox, Microsoft, 2001) Wata 9.6 A (Seal Rating) Game of the Year Edition (GOTY)....",121923,13214,"Xbox, Microsoft, 2001, Seal Rating Game of the Year Edition GOTY",Halo: Combat Evolved,,,,False
 2021-06-08,408.0,"Gauntlet Legends - Wata 9.8 A+ Sealed, N64 Midway 1998 USA. ...",312123,66057,,Gauntlet Legends,9.8,A+,SEALED,False
 2020-11-30,84.0,"Solaris - Wata 7.0 A+ Sealed [1988 Red box], 2600 Atari 1986 USA. ...",122048,19639,1988 Red box,Solaris,7.0,A+,SEALED,False
 2021-04-05,4560.0,"Metroid II: Return of Samus - Wata 9.4 A+ Sealed [Oval SOQ TM, Canadian Version], GB Nintendo 1991 CAN....",7242,97151,"Oval SOQ TM, Canadian Version",Metroid II: Return of Samus,9.4,A+,SEALED,False
@@ -2827,14 +2827,14 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2020-02-03,1020.0,"Super Mario Bros. 3 [""Right Bros.""] Wata 9.0 A Sealed NES Nintendo 1990 USA....",122005,11895,"""Right Bros.""",Super Mario Bros. 3,9.0,A,SEALED,False
 2020-06-15,120.0,"Teenage Mutant Ninja Turtles - Wata 6.0 CIB, NES Nintendo 1989 USA....",122024,15761,,Teenage Mutant Ninja Turtles,6.0,,CIB,False
 2020-11-20,7800.0,"Metal Gear - Wata 9.6 A+ Sealed [Rev-A, Round SOQ], NES Ultra 1988 USA....",7236,93018,"Rev-A, Round SOQ",Metal Gear,9.6,A+,SEALED,False
-2021-04-05,2880.0,"Adventures of Lolo 2 - Wata 9.4 A+ Sealed [Oval SOQ TM] (The Carolina Collection), NES HAL 1990 USA. ...",7242,97041,Oval SOQ TM] (The Carolina Collection,Adventures of Lolo 2,9.4,A+,SEALED,False
+2021-04-05,2880.0,"Adventures of Lolo 2 - Wata 9.4 A+ Sealed [Oval SOQ TM] (The Carolina Collection), NES HAL 1990 USA. ...",7242,97041,Oval SOQ TM The Carolina Collection,Adventures of Lolo 2,9.4,A+,SEALED,False
 2021-02-01,210.0,"Super Football - Wata 9.8 A+ Sealed [1988 Red box], 2600 Atari 1988 USA. ...",122105,12017,1988 Red box,Super Football,9.8,A+,SEALED,False
 2020-11-30,1680.0,"Back to the Future - Wata 9.4 A+ Sealed [Oval SOQ TM], NES LJN 1989 USA. ...",122048,19649,Oval SOQ TM,Back to the Future,9.4,A+,SEALED,False
 2021-08-03,1020.0,"Bioshock Infinite - Wata 9.8 A+ Sealed [Microsoft Security Label], Xbox360 2K 2013 USA....",312131,66110,Microsoft Security Label,Bioshock Infinite,9.8,A+,SEALED,False
 2021-04-06,432.0,"Syphon Filter 2 - Wata 9.6 A Sealed [Sony Security Label], PS1 Sony 2000 USA....",312114,66077,Sony Security Label,Syphon Filter 2,9.6,A,SEALED,False
 2021-04-20,156.0,"Impossible Mission II - Wata 9.6 A++ Sealed, NES SEI 1989 USA. ...",312116,68032,,Impossible Mission II,9.6,A++,SEALED,False
 2021-07-11,4320.0,"Teenage Mutant Ninja Turtles: Fall of the Foot Clan - Wata 8.5 A Sealed, GB Ultra 1990 USA. ...",7261,29156,,Teenage Mutant Ninja Turtles: Fall of the Foot Clan,8.5,A,SEALED,False
-2021-07-11,3360.0,"Bomberman - Wata 9.4 A+ Sealed [Rev-A, Round SOQ] (The Carolina Collection), NES Hudson Soft 1989 USA. ...",7261,29022,"Rev-A, Round SOQ] (The Carolina Collection",Bomberman,9.4,A+,SEALED,False
+2021-07-11,3360.0,"Bomberman - Wata 9.4 A+ Sealed [Rev-A, Round SOQ] (The Carolina Collection), NES Hudson Soft 1989 USA. ...",7261,29022,"Rev-A, Round SOQ The Carolina Collection",Bomberman,9.4,A+,SEALED,False
 2021-08-03,348.0,"Wolverine: Adamantium Rage - Wata 9.4 B+ Sealed, GEN Acclaim 1994 USA....",312131,66081,,Wolverine: Adamantium Rage,9.4,B+,SEALED,False
 2020-05-03,528.0,"Disney's Aladdin [Made in Japan, Early Production] Wata 9.0 A+ Sealed SNES Capcom 1993 USA....",7229,97211,"Made in Japan, Early Production",Disney's Aladdin,9.0,A+,SEALED,False
 2021-02-22,360.0,"Steel Harbinger - Wata 9.8 A+ Sealed [Sony Security Label], PS1 Mindscape 1996 USA. ...",122108,18093,Sony Security Label,Steel Harbinger,9.8,A+,SEALED,False
@@ -2954,7 +2954,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2020-08-17,204.0,"Dragon Ball Z: Ultimate Battle 22 - Wata 9.8 A+ Sealed [Sony Security Label], PS1 Atari 2003 USA....",122033,15798,Sony Security Label,Dragon Ball Z: Ultimate Battle 22,9.8,A+,SEALED,False
 2020-06-29,276.0,"Jr. Pac-Man - Wata 9.4 A+ Sealed, 2600 Atari 1986 USA....",122026,20127,,Jr. Pac-Man,9.4,A+,SEALED,False
 2021-03-30,144.0,"Moon Patrol - Wata 9.8 A++ Sealed [1983 Orange box], Apple2 Atarisoft 1983 USA....",312113,70004,1983 Orange box,Moon Patrol,9.8,A++,SEALED,False
-2021-04-05,1140.0,"Nightshade - Wata 9.6 A+ Sealed [Oval SOQ R] (The Indiana Collection), NES Ultra 1992 USA....",7242,97087,Oval SOQ R] (The Indiana Collection,Nightshade,9.6,A+,SEALED,False
+2021-04-05,1140.0,"Nightshade - Wata 9.6 A+ Sealed [Oval SOQ R] (The Indiana Collection), NES Ultra 1992 USA....",7242,97087,Oval SOQ R The Indiana Collection,Nightshade,9.6,A+,SEALED,False
 2020-11-02,192.0,"Raiders of the Lost Ark - Wata 9.0 NS No Seal [1982 Silver box], 2600 Atari 1982 USA. ...",122044,11891,1982 Silver box,Raiders of the Lost Ark,9.0,,NO SEAL,False
 2021-02-01,89.0,"Night Stalker - Wata 9.2 A++ Sealed [1982 Red box], INTV Mattel Electronics 1982 USA. ...",122105,12029,1982 Red box,Night Stalker,9.2,A++,SEALED,False
 2019-04-28,2640.0,"Super Mario Bros. (NES, Nintendo, 1985) Wata 4.0 CIB (Complete in Box) Box 2.5, Cartridge 6.5, Manual 4.5; Variant: Gloss Stic...",121917,17281,"NES, Nintendo, 1985, Complete in Box",Super Mario Bros.,,,,True
@@ -3000,7 +3000,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2020-06-01,348.0,"Stanley: The Search for Dr. Livingston - Wata 8.5 A+ Sealed, NES Electro Brain 1992 USA....",122022,11575,,Stanley: The Search for Dr. Livingston,8.5,A+,SEALED,False
 2020-07-10,7200.0,"Castlevania - Wata 9.0 A Sealed [Oval SOQ TM, Later Production], NES Konami 1987 USA....",7231,93014,"Oval SOQ TM, Later Production",Castlevania,9.0,A,SEALED,False
 2019-03-03,720.0,"Donkey Kong (NES, Nintendo, 1986) Wata 6.5 CIB (Complete in Box)....",121909,11354,"NES, Nintendo, 1986, Complete in Box",Donkey Kong,,,,False
-2021-03-30,264.0,"Bandai Golf Challenge Pebble Beach - Wata 9.2 A Sealed [Rev-A, Round SOQ, Early Production] (The Carolina Collection), NES Ban...",312113,70036,"Rev-A, Round SOQ, Early Production] (The Carolina Collection",Bandai Golf Challenge Pebble Beach,9.2,A,SEALED,False
+2021-03-30,264.0,"Bandai Golf Challenge Pebble Beach - Wata 9.2 A Sealed [Rev-A, Round SOQ, Early Production] (The Carolina Collection), NES Ban...",312113,70036,"Rev-A, Round SOQ, Early Production The Carolina Collection",Bandai Golf Challenge Pebble Beach,9.2,A,SEALED,False
 2019-11-24,384.0,Bandai Golf: Challenge Pebble Beach [Oval SOQ TM] - Carolina Collection Wata 9.4 A+ Sealed NES Bandai 1989 USA....,7212,97027,Oval SOQ TM,Bandai Golf: Challenge Pebble Beach  - Carolina Collection,9.4,A+,SEALED,False
 2021-01-18,104.0,"BurgerTime - Wata 9.2 A++ Sealed [1983 Purple box], INTV Mattel 1983 USA....",122103,15893,1983 Purple box,BurgerTime,9.2,A++,SEALED,False
 2020-10-26,180.0,"Millipede - Wata 9.2 A++ Sealed [1987 Silver box], 2600 Atari 1984 USA....",122043,17985,1987 Silver box,Millipede,9.2,A++,SEALED,False
@@ -3339,7 +3339,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2021-03-16,432.0,"Killer Satellites - Wata 9.6 A++ Sealed [1982 Black box], 2600 Starpath 1982 USA. ...",312111,68015,1982 Black box,Killer Satellites,9.6,A++,SEALED,False
 2020-07-12,492.0,"Donkey Kong Junior - Wata 9.2 A++ Sealed, 2600 Atari 1988 USA....",7231,97003,,Donkey Kong Junior,9.2,A++,SEALED,False
 2020-11-02,2880.0,"Spider-Man - Wata 9.6 A++ Sealed, 2600 Parker Brothers 1982 USA. ...",122044,11893,,Spider-Man,9.6,A++,SEALED,False
-2019-04-07,204.0,"Super Mario World (Player's Choice) (NES, Nintendo, 1991) Wata 8.5 CIB (Complete in Box)....",121914,11290,"Player's Choice) (NES, Nintendo, 1991, Complete in Box",Super Mario World,,,,False
+2019-04-07,204.0,"Super Mario World (Player's Choice) (NES, Nintendo, 1991) Wata 8.5 CIB (Complete in Box)....",121914,11290,"Player's Choice NES, Nintendo, 1991, Complete in Box",Super Mario World,,,,False
 2020-03-30,84.0,Hoops Wata 8.0 A Sealed NES Jaleco 1989 USA....,122013,19917,,Hoops,8.0,A,SEALED,False
 2020-09-28,780.0,"Star Force - Wata 9.6 A Sealed [Rev-A, Round SOQ], NES Tecmo 1987 USA. ...",122039,17922,"Rev-A, Round SOQ",Star Force,9.6,A,SEALED,False
 2020-05-03,2160.0,Castlevania: Symphony of the Night [Standard Release] Wata 9.4 B Sealed PS1 Konami 1997 USA....,7229,97267,Standard Release,Castlevania: Symphony of the Night,9.4,B,SEALED,False
@@ -3354,7 +3354,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2019-03-24,114.0,"Batman: Return of the Joker (NES, Sunsoft, 1991) Wata 7.0 CIB (Complete in Box)....",121912,15284,"NES, Sunsoft, 1991, Complete in Box",Batman: Return of the Joker,,,,False
 2019-11-24,408.0,Little Ninja Brothers [Oval SOQ R] - Carolina Collection Wata 7.0 B Sealed NES Culture Brain 1990 USA....,7212,97138,Oval SOQ R,Little Ninja Brothers  - Carolina Collection,7.0,B,SEALED,False
 2020-08-24,300.0,"Star Tropics - Wata 9.2 A+ Sealed, NES Nintendo 1990 USA. ...",122034,17806,,Star Tropics,9.2,A+,SEALED,False
-2021-04-05,1560.0,"Strider - Wata 9.4 A Sealed [Oval SOQ TM] (The Indiana Collection), NES Capcom 1989 USA....",7242,97104,Oval SOQ TM] (The Indiana Collection,Strider,9.4,A,SEALED,False
+2021-04-05,1560.0,"Strider - Wata 9.4 A Sealed [Oval SOQ TM] (The Indiana Collection), NES Capcom 1989 USA....",7242,97104,Oval SOQ TM The Indiana Collection,Strider,9.4,A,SEALED,False
 2021-06-29,456.0,"The Legend of Zelda - Wata 6.0 CIB [No Rev-A, Round SOQ], NES Nintendo 1987 USA. ...",312126,70025,"No Rev-A, Round SOQ",The Legend of Zelda,6.0,,CIB,False
 2019-11-24,900.0,Willow [Oval SOQ TM] - Carolina Collection Wata 9.4 A+ Sealed NES Capcom 1989 USA....,7212,97247,Oval SOQ TM,Willow  - Carolina Collection,9.4,A+,SEALED,False
 2021-08-31,2400.0,"The Chessmaster 3-D - Wata 9.8 A++ Sealed [Cardboard Longbox, Early Production], PS1 Mindscape 1996 USA....",312135,70090,"Cardboard Longbox, Early Production",The Chessmaster 3-D,9.8,A++,SEALED,False
@@ -3510,7 +3510,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2020-04-27,132.0,"Syphon Filter 2 - Wata 9.2 A Sealed [Standard Release], PS1 Sony 2000 USA....",122017,17731,Standard Release,Syphon Filter 2,9.2,A,SEALED,False
 2020-10-05,480.0,"Pac-Man - Wata 6.5 A+ Sealed [Orange Box, 2D Pac-Man], 2600 Atari 1982 USA....",122040,11891,"Orange Box, 2D Pac-Man",Pac-Man,6.5,A+,SEALED,False
 2021-08-24,1680.0,"Excitebike - Wata 5.0 A Sealed [Rev-A, Round SOQ], NES Nintendo 1985 USA....",312134,69046,"Rev-A, Round SOQ",Excitebike,5.0,A,SEALED,False
-2021-07-13,960.0,"Jackal - Wata 9.0 B+ Sealed [Rev-A, Round SOQ] (The Hawaii Collection), NES Konami 1988 USA....",312128,67024,"Rev-A, Round SOQ] (The Hawaii Collection",Jackal,9.0,B+,SEALED,False
+2021-07-13,960.0,"Jackal - Wata 9.0 B+ Sealed [Rev-A, Round SOQ] (The Hawaii Collection), NES Konami 1988 USA....",312128,67024,"Rev-A, Round SOQ The Hawaii Collection",Jackal,9.0,B+,SEALED,False
 2021-03-30,228.0,"Night Trap - Wata 9.6 CIB, SegaCD/32X Sega 1994 USA....",312113,70083,,Night Trap,9.6,,CIB,False
 2021-02-22,216.0,"Golf - Wata 7.5 CIB [Rev-A, Round SOQ, Mid-Production], NES Nintendo 1985 USA. ...",122108,18050,"Rev-A, Round SOQ, Mid-Production",Golf,7.5,,CIB,False
 2020-09-14,552.0,"Cookie Monster Munch - Wata 9.6 A++ Sealed [Orange Grid Box, PAL Version], 2600 Atari 1983 USA. ...",122037,13827,"Orange Grid Box, PAL Version",Cookie Monster Munch,9.6,A++,SEALED,False
@@ -3704,7 +3704,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2019-11-22,4800.0,"Section Z [Hangtab, 5-Screw Cart] - Carolina Collection Wata 9.8 A+ Sealed NES Capcom 1987 USA....",7212,93043,"Hangtab, 5-Screw Cart",Section Z  - Carolina Collection,9.8,A+,SEALED,False
 2021-04-20,192.0,"Tom Clancy's Rainbow Six: Lone Wolf - Wata 9.4 A Sealed [Sony Security Label], PS1 Red Storm 2002 USA....",312116,68076,Sony Security Label,Tom Clancy's Rainbow Six: Lone Wolf,9.4,A,SEALED,False
 2020-10-12,336.0,"Dragon Ball Z: Ulitmate Battle 22 - Wata 9.8 A++ Sealed, PS1 Atari 2003 USA. ...",122041,13814,,Dragon Ball Z: Ulitmate Battle 22,9.8,A++,SEALED,False
-2021-05-04,552.0,"Ironsword: Wizards & Warriors II - Wata 9.0 A+ Sealed [Oval SOQ TM] (The Indiana Collection), NES Acclaim 1989 USA. ...",312118,66036,Oval SOQ TM] (The Indiana Collection,Ironsword: Wizards & Warriors II,9.0,A+,SEALED,False
+2021-05-04,552.0,"Ironsword: Wizards & Warriors II - Wata 9.0 A+ Sealed [Oval SOQ TM] (The Indiana Collection), NES Acclaim 1989 USA. ...",312118,66036,Oval SOQ TM The Indiana Collection,Ironsword: Wizards & Warriors II,9.0,A+,SEALED,False
 2020-05-03,144.0,Alice in Wonderland Wata 9.6 A++ Sealed GBC Nintendo 2000 USA....,7229,97238,,Alice in Wonderland,9.6,A++,SEALED,False
 2019-12-01,2040.0,Bubble Bobble 2 Wata 8.0 CIB NES Taito 1993 USA....,121948,11303,,Bubble Bobble 2,8.0,,CIB,False
 2020-02-24,120.0,Doom Wata 9.4 A+ Sealed 32X Sega 1994 USA....,122008,17911,,Doom,9.4,A+,SEALED,False
@@ -3872,7 +3872,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2020-12-07,960.0,"Street Fighter II Turbo - Wata 6.5 A+ Sealed, SNES Capcom 1993 USA. ...",122049,11723,,Street Fighter II Turbo,6.5,A+,SEALED,False
 2021-04-05,840.0,"MTV's Beavis and Butt-Head - Wata 7.0 A+ Sealed, GB GT 1999 USA....",7242,97153,,MTV's Beavis and Butt-Head,7.0,A+,SEALED,False
 2021-06-29,456.0,"Pac-Man - Wata 9.6 NS Glue Seal [Silver box], 5200 Atari 1982 USA....",312126,70017,Silver box,Pac-Man,9.6,,GLUE SEAL,False
-2020-11-22,1440.0,"Dragon Warrior - Wata 9.6 A Sealed [Nintendo Power Promotional Copy] (Indiana Collection), NES Nintendo 1989 USA....",7236,97087,Nintendo Power Promotional Copy] (Indiana Collection,Dragon Warrior,9.6,A,SEALED,False
+2020-11-22,1440.0,"Dragon Warrior - Wata 9.6 A Sealed [Nintendo Power Promotional Copy] (Indiana Collection), NES Nintendo 1989 USA....",7236,97087,Nintendo Power Promotional Copy Indiana Collection,Dragon Warrior,9.6,A,SEALED,False
 2021-02-22,312.0,"DragonStomper - Wata 9.0 A++ Sealed [1982 Black box], 2600 Starpath 1982 USA. ...",122108,18022,1982 Black box,DragonStomper,9.0,A++,SEALED,False
 2020-11-22,1440.0,"The Guardian Legend - Wata 9.6 A+ Sealed [Oval SOQ TM], NES Broderbund 1989 USA....",7236,97134,Oval SOQ TM,The Guardian Legend,9.6,A+,SEALED,False
 2021-01-18,288.0,"Cabbage Patch Kids: Adventures in the Park - Wata 9.6 NS Glue Seal [1984 Tan box], C.Vis Coleco 1984 USA. ...",122103,15887,1984 Tan box,Cabbage Patch Kids: Adventures in the Park,9.6,,GLUE SEAL,False
@@ -3919,7 +3919,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2019-11-17,101.0,"Sonic the Hedgehog 2 [Made in Japan, Later Release] Wata 9.2 A+ Sealed GEN Sega 1992 USA....",121946,15276,"Made in Japan, Later Release",Sonic the Hedgehog 2,9.2,A+,SEALED,False
 2020-11-09,930.0,"Mountain Bike Rally - Wata 9.4 A Sealed, SNES Life Fitness 1994 USA. ...",122045,13798,,Mountain Bike Rally,9.4,A,SEALED,False
 2021-07-20,120.0,"Jr. Pac-Man - Wata 8.0 A+ Sealed [1988 Red Box], 2600 Atari 1986 USA....",312129,68011,1988 Red Box,Jr. Pac-Man,8.0,A+,SEALED,False
-2021-04-05,7200.0,"Pinball - Wata 9.6 A Sealed [Rev-A, Round SOQ, Mid-Production] (The Hawaii Collection), NES Nintendo 1985 USA....",7242,97091,"Rev-A, Round SOQ, Mid-Production] (The Hawaii Collection",Pinball,9.6,A,SEALED,False
+2021-04-05,7200.0,"Pinball - Wata 9.6 A Sealed [Rev-A, Round SOQ, Mid-Production] (The Hawaii Collection), NES Nintendo 1985 USA....",7242,97091,"Rev-A, Round SOQ, Mid-Production The Hawaii Collection",Pinball,9.6,A,SEALED,False
 2021-07-13,528.0,"Punky Skunk - Wata 9.8 A+ Sealed [Sony Security Seal], PS1 Jaleco 1998 USA....",312128,67084,Sony Security Seal,Punky Skunk,9.8,A+,SEALED,False
 2020-11-02,1680.0,"Metal Gear - Wata 8.5 A Sealed [Round SOQ], NES Ultra 1988 USA....",122044,11917,Round SOQ,Metal Gear,8.5,A,SEALED,False
 2020-09-07,156.0,"Bandai Golf: Challenge Pebble Beach [Rev-A, Round SOQ] - Carolina Collection Wata 9.2 A Sealed NES Bandai 1989 USA....",122036,11838,"Rev-A, Round SOQ",Bandai Golf: Challenge Pebble Beach  - Carolina Collection,9.2,A,SEALED,False
@@ -4022,7 +4022,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2019-03-24,192.0,"NBA Jam (Genesis, Acclaim, 1994) Wata 9.8 A++ (Seal Rating)....",121912,15279,"Genesis, Acclaim, 1994, Seal Rating",NBA Jam,,,,False
 2021-05-25,870.0,"Dragon Ball Z: Ulitmate Battle 22 - Wata 9.8 A++ Sealed [Sony Security Label], PS1 Atari 2003 USA. ...",312121,69077,Sony Security Label,Dragon Ball Z: Ulitmate Battle 22,9.8,A++,SEALED,False
 2020-11-09,180.0,"Marble Madness - Wata 6.0 A Sealed [Round SOQ], NES Milton Bradley 1989 USA. ...",122045,13786,Round SOQ,Marble Madness,6.0,A,SEALED,False
-2019-04-28,74.0,"Forza Motorsport: 3 / Halo 3: ODST (NFR) (Xbox 360, Microsoft, 2009) Wata 9.6 A (Seal Rating)....",121917,17275,"NFR) (Xbox 360, Microsoft, 2009, Seal Rating",Forza Motorsport: 3 / Halo 3: ODST,,,,False
+2019-04-28,74.0,"Forza Motorsport: 3 / Halo 3: ODST (NFR) (Xbox 360, Microsoft, 2009) Wata 9.6 A (Seal Rating)....",121917,17275,"NFR Xbox 360, Microsoft, 2009, Seal Rating",Forza Motorsport: 3 / Halo 3: ODST,,,,False
 2020-11-22,3360.0,"Pokemon Red - Wata 9.6 A++ Sealed [Spanish Version], GB Nintendo 1998 ESP....",7236,97166,Spanish Version,Pokemon Red,9.6,A++,SEALED,False
 2020-07-10,11100.0,"Gyromite - Wata 6.0 A++ Sealed [Matte Sticker, First Production], NES Nintendo 1985 USA....",7231,93018,"Matte Sticker, First Production",Gyromite,6.0,A++,SEALED,False
 2020-11-23,105.0,"BurgerTime - Wata 8.0 A+ Sealed, 2600 M-Network 1982 USA. ...",122047,17745,,BurgerTime,8.0,A+,SEALED,False
@@ -4047,7 +4047,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2020-03-06,18000.0,Little Samson Wata 9.4 A Sealed NES Taito 1992 USA....,7224,93022,,Little Samson,9.4,A,SEALED,False
 2020-11-22,1020.0,"Disney Sports Basketball - Wata 9.4 B+ Sealed, G.Cube Konami 2003 USA....",7236,97188,,Disney Sports Basketball,9.4,B+,SEALED,False
 2020-03-02,168.0,Super Mario Bros. 3 [Left Bros.] Wata 6.5 CIB NES Nintendo 1990 USA....,122009,11929,Left Bros.,Super Mario Bros. 3,6.5,,CIB,False
-2021-01-17,1200.0,"Friday the 13th - Wata 9.4 A+ Sealed [Rev-A, Round SOQ, Early Production] (Indiana Collection), NES LJN 1989 USA. ...",7239,97028,"Rev-A, Round SOQ, Early Production] (Indiana Collection",Friday the 13th,9.4,A+,SEALED,False
+2021-01-17,1200.0,"Friday the 13th - Wata 9.4 A+ Sealed [Rev-A, Round SOQ, Early Production] (Indiana Collection), NES LJN 1989 USA. ...",7239,97028,"Rev-A, Round SOQ, Early Production Indiana Collection",Friday the 13th,9.4,A+,SEALED,False
 2021-02-15,630.0,"Excitebike - Wata 7.0 CIB [Oval SOQ TM], NES Nintendo 1985 USA. ...",122107,16030,Oval SOQ TM,Excitebike,7.0,,CIB,False
 2020-12-14,336.0,"The Bard's Tale - Wata 8.5 B+ Sealed [Oval SOQ R], NES FCI 1991 USA. ...",122050,13893,Oval SOQ R,The Bard's Tale,8.5,B+,SEALED,False
 2020-04-20,204.0,"WWF WrestleMania [Oval SOQ TM, Later Production] Wata 5.5 A Sealed NES Acclaim 1989 USA....",122016,15640,"Oval SOQ TM, Later Production",WWF WrestleMania,5.5,A,SEALED,False
@@ -4130,7 +4130,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2019-02-21,900.0,"The Flintstones: The Surprise at Dinosaur Peak (NES, Taito, 1994) Wata 7.0 Cartridge (Loose)....",7204,92252,"NES, Taito, 1994, Loose",The Flintstones: The Surprise at Dinosaur Peak,,,,False
 2021-01-11,180.0,"Skate or Die - Wata 6.0 C+ Sealed [Rev-A, Round SOQ], NES Ultra 1988 USA. ...",122102,13778,"Rev-A, Round SOQ",Skate or Die,6.0,C+,SEALED,False
 2021-07-27,192.0,"Ecco: The Tides of Time - Wata 9.2 C+ Sealed, GEN Sega 1994 USA....",312130,69080,,Ecco: The Tides of Time,9.2,C+,SEALED,False
-2021-04-05,3720.0,"Monopoly - Wata 9.8 A Sealed [Oval SOQ R] (The Indiana Collection), NES Parker Brothers 1991 USA....",7242,97084,Oval SOQ R] (The Indiana Collection,Monopoly,9.8,A,SEALED,False
+2021-04-05,3720.0,"Monopoly - Wata 9.8 A Sealed [Oval SOQ R] (The Indiana Collection), NES Parker Brothers 1991 USA....",7242,97084,Oval SOQ R The Indiana Collection,Monopoly,9.8,A,SEALED,False
 2019-10-13,780.0,"Werewolf: The Last Warrior Wata 9.4 A+ Sealed NES, Data East, 1990, USA....",121941,13291,,Werewolf: The Last Warrior,9.4,A+,SEALED,False
 2020-03-08,840.0,AD&D: DragonStrike Wata 9.2 A Sealed NES FCI 1992 USA....,7224,97001,,AD&D: DragonStrike,9.2,A,SEALED,False
 2021-05-11,138.0,"Tomb Raider - Wata 8.0 CIB, Saturn Eidos 1996 USA. ...",312119,67076,,Tomb Raider,8.0,,CIB,False
@@ -4280,7 +4280,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2020-10-12,264.0,"River Raid - Wata 9.6 A++ Sealed [1982 Burgandy box], 2600 Activision 1982 USA. ...",122041,13768,1982 Burgandy box,River Raid,9.6,A++,SEALED,False
 2020-09-21,288.0,"Dragon Ball Z: Collectible Card Game - Wata 9.0 A+ Sealed, GBA Infogames 2002 USA. ...",122038,15801,,Dragon Ball Z: Collectible Card Game,9.0,A+,SEALED,False
 2020-07-20,186.0,"Lethal Enforcers II: Gun Fighters - Wata 8.5 A Sealed, SegaCD Konami 1994 USA....",122029,15853,,Lethal Enforcers II: Gun Fighters,8.5,A,SEALED,False
-2019-04-07,264.0,"The Legend of Zelda: Ocarina of Time / Master Quest [NFR] (GameCube, Nintendo, 2003) Wata 9.2 A (Seal Rating)....",121914,11293,"NFR] (GameCube, Nintendo, 2003, Seal Rating",The Legend of Zelda: Ocarina of Time / Master Quest,,,,False
+2019-04-07,264.0,"The Legend of Zelda: Ocarina of Time / Master Quest [NFR] (GameCube, Nintendo, 2003) Wata 9.2 A (Seal Rating)....",121914,11293,"NFR GameCube, Nintendo, 2003, Seal Rating",The Legend of Zelda: Ocarina of Time / Master Quest,,,,False
 2020-11-09,156.0,"Defender - Wata 9.0 NS Glue Seal [1982 Blue box], 2600 Atari 1982 USA....",122045,13751,1982 Blue box,Defender,9.0,,GLUE SEAL,False
 2020-07-06,216.0,"Aliens vs Predator: Extinction - Wata 9.8 A Sealed, Xbox EA 2003 USA....",122027,11774,,Aliens vs Predator: Extinction,9.8,A,SEALED,False
 2021-05-04,114.0,"Pete Rose Baseball - Wata 7.5 A+ Sealed [1988 Green box], 2600 Absolute1988 USA. ...",312118,66016,1988 Green box,Pete Rose Baseball,7.5,A+,SEALED,False
@@ -4310,7 +4310,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2021-04-06,630.0,"Guitar Hero - Wata 9.4 A++ Sealed, PS2 Red Octane 2005 USA. ...",312114,66086,,Guitar Hero,9.4,A++,SEALED,False
 2020-09-13,969.6,"Guerrilla War - Wata 9.6 A Sealed, NES SMK 1989 USA. ...",7234,97073,,Guerrilla War,9.6,A,SEALED,False
 2020-05-03,432.0,Ghost Lion Wata 9.4 B+ Sealed NES Kemco 1992 USA....,7229,97117,,Ghost Lion,9.4,B+,SEALED,False
-2021-01-17,1200.0,"Barbie - Wata 9.6 A+ Sealed [Oval SOQ R] (Indiana Collection), NES Hi Tech 1991 USA. ...",7239,97023,Oval SOQ R] (Indiana Collection,Barbie,9.6,A+,SEALED,False
+2021-01-17,1200.0,"Barbie - Wata 9.6 A+ Sealed [Oval SOQ R] (Indiana Collection), NES Hi Tech 1991 USA. ...",7239,97023,Oval SOQ R Indiana Collection,Barbie,9.6,A+,SEALED,False
 2021-02-15,8100.0,"Super Mario Bros. - Wata 6.5 B+ Sealed [Oval SOQ TM, Later Production], NES Nintendo 1985 USA. ...",122107,16039,"Oval SOQ TM, Later Production",Super Mario Bros.,6.5,B+,SEALED,False
 2021-01-18,216.0,"Raiders of the Lost Ark - Wata 9.2 NS Glue Seal [1982 Silver box], 2600 Atari 1982 USA. ...",122103,15875,1982 Silver box,Raiders of the Lost Ark,9.2,,GLUE SEAL,False
 2021-08-10,240.0,"Dig Dug - Wata 9.2 A++ Sealed [1987 Silver Box], 2600 Atari 1983 USA....",312132,67005,1987 Silver Box,Dig Dug,9.2,A++,SEALED,False
@@ -4324,7 +4324,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2020-11-23,74.0,"Krull - Wata 7.0 NS Glue Seal [1986 Silver box], 2600 Atari 1983 USA. ...",122047,17762,1986 Silver box,Krull,7.0,,GLUE SEAL,False
 2021-03-01,192.0,"Berzerk - Wata 9.4 A+ Sealed [1982 Green box], 2600 Atari 1982 USA. ...",122109,12033,1982 Green box,Berzerk,9.4,A+,SEALED,False
 2021-06-15,1260.0,"Final Fantasy Legend III - Wata 9.4 A++ Sealed, GB Sunsoft 1998 USA. ...",312124,68055,,Final Fantasy Legend III,9.4,A++,SEALED,False
-2021-07-11,2160.0,"Zen: Intergalactic Ninja - Wata 9.4 A Sealed [Oval SOQ R] (The Carolina Collection), NES Konami 1993 USA....",7261,29086,Oval SOQ R] (The Carolina Collection,Zen: Intergalactic Ninja,9.4,A,SEALED,False
+2021-07-11,2160.0,"Zen: Intergalactic Ninja - Wata 9.4 A Sealed [Oval SOQ R] (The Carolina Collection), NES Konami 1993 USA....",7261,29086,Oval SOQ R The Carolina Collection,Zen: Intergalactic Ninja,9.4,A,SEALED,False
 2020-05-03,1920.0,Battletoads Wata 9.0 A Sealed NES Tradewest 1991 USA....,7229,97060,,Battletoads,9.0,A,SEALED,False
 2020-11-02,408.0,"Final Fantasy VIII - Wata 9.6 B+ Sealed [Sony Security Label], PS1 Squaresoft 1999 USA. ...",122044,11951,Sony Security Label,Final Fantasy VIII,9.6,B+,SEALED,False
 2021-05-04,384.0,"NBA Live 95 - Wata 8.0 A Sealed [Made in Japan], SNES EA Sports 1994 USA....",312118,66044,Made in Japan,NBA Live 95,8.0,A,SEALED,False
@@ -4755,7 +4755,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2021-03-30,960.0,"Zombies Ate My Neighbors - Wata 9.6 A Sealed, GEN Konami 1993 USA. ...",312113,70081,,Zombies Ate My Neighbors,9.6,A,SEALED,False
 2021-04-13,252.0,"Joust - Wata 9.4 A++ Sealed [1983 Silver box], 2600 Atari 1983 USA. ...",312115,67011,1983 Silver box,Joust,9.4,A++,SEALED,False
 2021-06-22,204.0,"Yoshi's Cookie - Wata 7.5 B+ Sealed [OVAL SOQ R], NES Nintendo 1993 USA. ...",312125,69061,OVAL SOQ R,Yoshi's Cookie,7.5,B+,SEALED,False
-2021-07-11,9000.0,"God of War - Wata Certified Prototype [Version 2/13/2005 (March 2005 Preview)], PS2 Sony 2005 USA....",7261,28174,Version 2/13/2005 (March 2005 Preview),God of War,,,,False
+2021-07-11,9000.0,"God of War - Wata Certified Prototype [Version 2/13/2005 (March 2005 Preview)], PS2 Sony 2005 USA....",7261,28174,Version 2/13/2005 March 2005 Preview,God of War,,,,False
 2021-08-24,1920.0,"Halo 3 - Wata 9.6 A+ Sealed [Microsoft Security Label], Xbox360 Microsoft 2007 USA....",312134,69118,Microsoft Security Label,Halo 3,9.6,A+,SEALED,False
 2020-04-27,228.0,Dungeon Magic: Sword of the Elements - Wata 8.5 A Sealed NES Taito 1990 USA....,122017,17691,,Dungeon Magic: Sword of the Elements,8.5,A,SEALED,False
 2020-10-26,240.0,"Venture - Wata 9.6 A++ Sealed [1988 Red box], 2600 Atari 1988 USA....",122043,17997,1988 Red box,Venture,9.6,A++,SEALED,False
@@ -4785,7 +4785,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2020-11-22,750.0,"Tiny Toon Adventures: Buster's Hidden Treasure - Wata 9.6 A+ Sealed [Cardboard Flip-top], GEN Konami 1993 USA....",7236,97223,Cardboard Flip-top,Tiny Toon Adventures: Buster's Hidden Treasure,9.6,A+,SEALED,False
 2019-10-24,156.0,"Hogan's Alley [Eighth Release] Wata 7.5 CIB NES, Nintendo, 1985, USA....",121942,15383,Eighth Release,Hogan's Alley,7.5,,CIB,False
 2021-07-20,552.0,"The Elder Scrolls IV: Oblivion - Wata 9.2 B Sealed [Microsoft Security Seal], XBX360 2K 2006 USA....",312129,68114,Microsoft Security Seal,The Elder Scrolls IV: Oblivion,9.2,B,SEALED,False
-2020-08-03,276.0,"The Legend of Zelda - Wata 5.5 CIB [No Rev-A, First Production] (Carolina Collection), NES Nintendo 1987 USA....",122031,11733,"No Rev-A, First Production] (Carolina Collection",The Legend of Zelda,5.5,,CIB,False
+2020-08-03,276.0,"The Legend of Zelda - Wata 5.5 CIB [No Rev-A, First Production] (Carolina Collection), NES Nintendo 1987 USA....",122031,11733,"No Rev-A, First Production Carolina Collection",The Legend of Zelda,5.5,,CIB,False
 2021-01-11,264.0,"Paper Mario: The Thousand Years - Wata 9.6 A+ Sealed [Best Seller, Later Production], G.Cube Nintendo 2004 USA....",122102,13792,"Best Seller, Later Production",Paper Mario: The Thousand Years,9.6,A+,SEALED,False
 2019-12-08,50.0,"Tennis [Matte Sticker, First Test Market] Wata 5.0 CIB NES Nintendo 1985 USA....",121949,13191,"Matte Sticker, First Test Market",Tennis,5.0,,CIB,False
 2020-06-29,156.0,"Battlezone - Wata 8.5 A++ Sealed, 2600 Atari 1983 USA....",122026,20118,,Battlezone,8.5,A++,SEALED,False
@@ -4950,7 +4950,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2020-05-03,720.0,James Bond Jr. Wata 9.2 A+ Sealed NES THQ 1992 USA....,7229,97129,,James Bond Jr.,9.2,A+,SEALED,False
 2020-12-07,2280.0,"Mario Bros. - Wata 9.0 A+ Sealed [1987 Silver box], 2600 Atari 1983 USA. ...",122049,11676,1987 Silver box,Mario Bros.,9.0,A+,SEALED,False
 2019-11-24,1320.0,Bugs Bunny Birthday Blowout [Oval SOQ R] - Carolina Collection Wata 9.6 A+ Sealed NES Kemco-Seika 1990 USA....,7212,97043,Oval SOQ R,Bugs Bunny Birthday Blowout  - Carolina Collection,9.6,A+,SEALED,False
-2021-07-09,6600.0,"10-Yard Fight - Wata 9.2 NS [Hangtab, 2 Code, Mid-Production] (Carolina Collection), NES Nintendo 1985 USA....",7261,28064,"Hangtab, 2 Code, Mid-Production] (Carolina Collection",10-Yard Fight,9.2,,,False
+2021-07-09,6600.0,"10-Yard Fight - Wata 9.2 NS [Hangtab, 2 Code, Mid-Production] (Carolina Collection), NES Nintendo 1985 USA....",7261,28064,"Hangtab, 2 Code, Mid-Production Carolina Collection",10-Yard Fight,9.2,,,False
 2021-07-11,5400.0,"Wolverine - Wata 9.4 A+ Sealed [Oval SOQ R], NES LJN 1991 USA....",7261,29082,Oval SOQ R,Wolverine,9.4,A+,SEALED,False
 2021-07-11,1800.0,"Toki: Going Ape Spit - Wata 9.8 A+ Sealed, GEN Sega 1991 USA....",7261,29222,,Toki: Going Ape Spit,9.8,A+,SEALED,False
 2021-01-18,144.0,"MTV Remote Control - Wata 9.4 A+ Sealed [Oval SOQ R], NES Nintendo 1990 USA....",122103,15916,Oval SOQ R,MTV Remote Control,9.4,A+,SEALED,False
@@ -5126,7 +5126,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2020-11-22,1200.0,"Suikoden - Wata 9.8 A Sealed, PS1 Konami 1996 USA....",7236,97273,,Suikoden,9.8,A,SEALED,False
 2020-10-12,180.0,"Road Runner - Wata 9.4 A+ Sealed [1989 Red Box], 2600 Atari 1989 USA. ...",122041,13769,1989 Red Box,Road Runner,9.4,A+,SEALED,False
 2020-11-22,2040.0,"The Legend of Zelda: A Link to the Past - Wata 6.5 B+ Sealed [Standard Release, Early Production], SNES Nintendo 1992 USA....",7236,97148,"Standard Release, Early Production",The Legend of Zelda: A Link to the Past,6.5,B+,SEALED,False
-2020-11-22,870.0,"Hogan's Alley - Wata 7.0 B+ Sealed [Oval SOQ TM, Later Production] (Carolina Collection), NES Nintendo 1985 USA....",7236,97100,"Oval SOQ TM, Later Production] (Carolina Collection",Hogan's Alley,7.0,B+,SEALED,False
+2020-11-22,870.0,"Hogan's Alley - Wata 7.0 B+ Sealed [Oval SOQ TM, Later Production] (Carolina Collection), NES Nintendo 1985 USA....",7236,97100,"Oval SOQ TM, Later Production Carolina Collection",Hogan's Alley,7.0,B+,SEALED,False
 2021-01-17,780.0,"Gyromite - Wata 8.0 CIB [Matte Sticker, US Test Market], NES Nintendo 1985 USA. ...",7239,97029,"Matte Sticker, US Test Market",Gyromite,8.0,,CIB,False
 2020-05-03,528.0,Doom 64 Wata 9.4 A+ Sealed N64 Midway 1997 USA....,7229,97240,,Doom 64,9.4,A+,SEALED,False
 2020-10-26,114.0,"Light Crusader - Wata 8.0 NS No Seal, Gen Sega 1995 USA....",122043,18049,,Light Crusader,8.0,,NO SEAL,False
@@ -5200,7 +5200,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2020-11-23,186.0,"Comix Zone - Wata 7.0 B+ Sealed, GEN Sega 1995 USA. ...",122047,17811,,Comix Zone,7.0,B+,SEALED,False
 2021-04-02,18000.0,"Pokémon Yellow Version - Wata 9.6 A+ Sealed [Pixel ESRB, Early Production], GB Nintendo 1999 USA....",7242,93057,"Pixel ESRB, Early Production",Pokémon Yellow Version,9.6,A+,SEALED,False
 2021-03-16,2040.0,"Legendary Wings - Wata 9.6 A++ Sealed [Rev-A, Round SOQ], NES Capcom 1988 USA. ...",312111,68041,"Rev-A, Round SOQ",Legendary Wings,9.6,A++,SEALED,False
-2021-04-20,900.0,"American Gladiators - Wata 9.4 A+ Sealed [Oval SOQ R] (The Carolina Collection), NES Gametek 1991 USA. ...",312116,68026,Oval SOQ R] (The Carolina Collection,American Gladiators,9.4,A+,SEALED,False
+2021-04-20,900.0,"American Gladiators - Wata 9.4 A+ Sealed [Oval SOQ R] (The Carolina Collection), NES Gametek 1991 USA. ...",312116,68026,Oval SOQ R The Carolina Collection,American Gladiators,9.4,A+,SEALED,False
 2021-01-25,504.0,"Kirby's Adventure - Wata 9.4 A++ Sealed [Oval SOQ TM/MC, Canadian Version], NES Nintendo 1993 CAN. ...",122104,17944,"Oval SOQ TM/MC, Canadian Version",Kirby's Adventure,9.4,A++,SEALED,False
 2020-06-01,109.0,"John Elway's Quarterback - Wata 8.5 B+ Sealed, NES Tradwest 1989 USA....",122022,11568,,John Elway's Quarterback,8.5,B+,SEALED,False
 2019-11-24,408.0,Road Runner [Tengen Gold SOQ] - Carolina Collection Wata 9.2 A+ Sealed NES Tengen 1989 USA....,7212,97185,Tengen Gold SOQ,Road Runner  - Carolina Collection,9.2,A+,SEALED,False
@@ -5351,7 +5351,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2020-11-22,1200.0,"Super Mario Bros. 3 - Wata 8.0 CIB [""Bros."" Left, First Production], NES Nintendo 1990 USA....",7236,97129,"""Bros."" Left, First Production",Super Mario Bros. 3,8.0,,CIB,False
 2021-08-31,168.0,"Space Invaders - Wata 8.0 A+ Sealed [1988 Red Box], 2600 Atari 1980 USA....",312135,70017,1988 Red Box,Space Invaders,8.0,A+,SEALED,False
 2021-06-15,384.0,"Street Cop - Wata 7.0 B Sealed [Oval SOQ TM], NES Bandai 1989 USA. ...",312124,68041,Oval SOQ TM,Street Cop,7.0,B,SEALED,False
-2021-07-06,456.0,"Clash at Demonhead - Wata 9.4 A+ Sealed [Oval SOQ TM] (The Indiana Collection), NES Vic Tokai 1990 USA....",312127,66024,Oval SOQ TM] (The Indiana Collection,Clash at Demonhead,9.4,A+,SEALED,False
+2021-07-06,456.0,"Clash at Demonhead - Wata 9.4 A+ Sealed [Oval SOQ TM] (The Indiana Collection), NES Vic Tokai 1990 USA....",312127,66024,Oval SOQ TM The Indiana Collection,Clash at Demonhead,9.4,A+,SEALED,False
 2020-09-21,240.0,"Asteroids - Wata 8.0 A++ Sealed [Red Box], 2600 Atari 1981 USA....",122038,15743,Red Box,Asteroids,8.0,A++,SEALED,False
 2019-11-10,600.0,Super Mario Bros. 3 [Left Bros.] Wata 8.0 CIB NES Nintendo 1990 USA....,121945,13242,Left Bros.,Super Mario Bros. 3,8.0,,CIB,False
 2021-07-11,960.0,"Raid on Bungeling Bay - Wata 9.4 CIB [Hangtab, First Production], NES Broderbund 1987 USA....",7261,29060,"Hangtab, First Production",Raid on Bungeling Bay,9.4,,CIB,False
@@ -5400,7 +5400,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2019-07-07,99.0,"Galactic Crusader (NES, Bunch, 1989) Wata 8.0 A++ (Seal Rating) Variant: French Sticker....",121927,11312,"NES, Bunch, 1989, Seal Rating",Galactic Crusader,,,,True
 2019-11-24,2040.0,"Commando [Rev-A, Round SOQ] - Carolina Collection Wata 9.4 A+ Sealed NES Capcom 1986 USA....",7212,97060,"Rev-A, Round SOQ",Commando  - Carolina Collection,9.4,A+,SEALED,False
 2020-02-03,144.0,"Pokemon Blue [Pixel ""E"", 83% Fiber, Y-Fold Box, Early Production] Wata 7.0 CIB GB Nintendo 2000 USA....",122005,11907,"Pixel ""E"", 83% Fiber, Y-Fold Box, Early Production",Pokemon Blue,7.0,,CIB,False
-2021-06-29,780.0,"Mappy-Land - Wata 9.4 A Sealed [Oval SOQ TM] (The Indiana Collection), NES Taxan 1989 USA. ...",312126,70026,Oval SOQ TM] (The Indiana Collection,Mappy-Land,9.4,A,SEALED,False
+2021-06-29,780.0,"Mappy-Land - Wata 9.4 A Sealed [Oval SOQ TM] (The Indiana Collection), NES Taxan 1989 USA. ...",312126,70026,Oval SOQ TM The Indiana Collection,Mappy-Land,9.4,A,SEALED,False
 2021-08-03,288.0,"Strawberry Shortcake: Musical Match ups - Wata 9.8 A++ Sealed, 2600 Parker Brothers 1983 USA....",312131,66049,,Strawberry Shortcake: Musical Match ups,9.8,A++,SEALED,False
 2020-03-08,990.0,Clu Clu Land (Test Cartridge) Wata 9.2 Loose Cart NES Nintendo 1985 USA....,7224,97015,Test Cartridge,Clu Clu Land,9.2,,LOOSE CART,False
 2021-08-10,480.0,"Bomberman World - Wata 9.2 A+ Sealed [Sony Security Label], PS1 Atlus 1998 USA....",312132,67073,Sony Security Label,Bomberman World,9.2,A+,SEALED,False
@@ -5504,7 +5504,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2021-04-02,15600.0,"Teenage Mutant Ninja Turtles: Tournament Fighters - Wata 9.4 A Sealed [Made in Japan, Kevin Eastman BGS Verified], SNES Konami...",7242,93046,"Made in Japan, Kevin Eastman BGS Verified",Teenage Mutant Ninja Turtles: Tournament Fighters,9.4,A,SEALED,False
 2020-05-03,384.0,"Super Smash Bros. Melee [Best Seller, Later Production] Wata 9.4 A Sealed G.Cube Nintendo 2004....",7229,97252,"Best Seller, Later Production",Super Smash Bros. Melee,9.4,A,SEALED,False
 2021-04-05,1110.0,"Double Dragon - Wata 9.4 A Sealed [No Year, Red box], 2600 Activision 1989 USA....",7242,97003,"No Year, Red box",Double Dragon,9.4,A,SEALED,False
-2020-07-12,552.0,"Golgo 13: Top Secret Episode - Wata 9.4 A+ Sealed [Rev-A, Round SOQ, Early Production] (Indiana Collection), NES Vic Tokai 198...",7231,97060,"Rev-A, Round SOQ, Early Production] (Indiana Collection",Golgo 13: Top Secret Episode,9.4,A+,SEALED,False
+2020-07-12,552.0,"Golgo 13: Top Secret Episode - Wata 9.4 A+ Sealed [Rev-A, Round SOQ, Early Production] (Indiana Collection), NES Vic Tokai 198...",7231,97060,"Rev-A, Round SOQ, Early Production Indiana Collection",Golgo 13: Top Secret Episode,9.4,A+,SEALED,False
 2021-08-17,2220.0,"Conker's Bad Fur Day - Wata 9.2 A Sealed, N64 Rareware 2001 USA....",312133,68055,,Conker's Bad Fur Day,9.2,A,SEALED,False
 2021-06-22,71.0,"Plattermania - Wata 8.0 A+ Sealed [1982 Yellow box], 400/800 EPYX 1982 USA....",312125,69002,1982 Yellow box,Plattermania,8.0,A+,SEALED,False
 2019-11-22,13200.0,"Ice Climber [Hangtab, No NES TM] Wata 9.2 A Sealed NES Nintendo 1985 USA....",7212,93057,"Hangtab, No NES TM",Ice Climber,9.2,A,SEALED,False
@@ -5601,7 +5601,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2020-11-23,204.0,"Moon Patrol - Wata 9.6 A++ Sealed [1987 Silver box], 2600 Atari 1983 USA. ...",122047,17763,1987 Silver box,Moon Patrol,9.6,A++,SEALED,False
 2021-07-11,1200.0,"Double Dribble 5 on 5 - Wata 9.2 A+ Sealed, GB Konami 1991 USA. ...",7261,29130,,Double Dribble 5 on 5,9.2,A+,SEALED,False
 2020-06-29,156.0,"Track & Field II - Wata 7.0 B Sealed, NES Konami 1988 USA....",122026,20149,,Track & Field II,7.0,B,SEALED,False
-2019-06-23,264.0,"Super Mario Bros. (Classic NES Series) (GBA, Nintendo, 2004) Wata 9.2 A+ (Seal Rating)....",121925,17270,"Classic NES Series) (GBA, Nintendo, 2004, Seal Rating",Super Mario Bros.,,,,False
+2019-06-23,264.0,"Super Mario Bros. (Classic NES Series) (GBA, Nintendo, 2004) Wata 9.2 A+ (Seal Rating)....",121925,17270,"Classic NES Series GBA, Nintendo, 2004, Seal Rating",Super Mario Bros.,,,,False
 2020-03-16,312.0,"Super Mario Bros. 3 [""Bros."" Right] Wata 7.0 CIB NES Nintendo 1990 USA....",122011,15879,"""Bros."" Right",Super Mario Bros. 3,7.0,,CIB,False
 2019-07-14,390.0,"Sonic 3D Blast (Saturn, Sega, 1996) Wata 9.8 A+ (Seal Rating)....",121928,13252,"Saturn, Sega, 1996, Seal Rating",Sonic 3D Blast,,,,False
 2020-11-30,1020.0,"God of War - Wata 9.6 A Sealed [Sony Security Label], PS2 Sony 2005 USA. ...",122048,19702,Sony Security Label,God of War,9.6,A,SEALED,False
@@ -5616,7 +5616,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2020-10-19,336.0,"Bust-A-Move 3 - Wata 9.8 A++ Sealed, Saturn Natsune 1997 USA....",122042,15779,,Bust-A-Move 3,9.8,A++,SEALED,False
 2021-07-20,144.0,"Fight Club - Wata 9.2 A Sealed [Sony Security Label], PS2 Vivendi Universal 2004 USA....",312129,68101,Sony Security Label,Fight Club,9.2,A,SEALED,False
 2019-01-13,79.0,"Rad Racer (NES, Nintendo, 1987) Wata 6.5 CIB (Complete in Box)....",121902,12210,"NES, Nintendo, 1987, Complete in Box",Rad Racer,,,,False
-2021-05-11,312.0,"Xevious - Wata 9.2 A+ Sealed [Oval SOQ] (The Carolina Collection), NES Bandai 1988 USA. ...",312119,67049,Oval SOQ] (The Carolina Collection,Xevious,9.2,A+,SEALED,False
+2021-05-11,312.0,"Xevious - Wata 9.2 A+ Sealed [Oval SOQ] (The Carolina Collection), NES Bandai 1988 USA. ...",312119,67049,Oval SOQ The Carolina Collection,Xevious,9.2,A+,SEALED,False
 2019-11-24,408.0,Archon [Oval SOQ TM] - Carolina Collection Wata 9.4 A Sealed NES ActiVision 1989 USA....,7212,97021,Oval SOQ TM,Archon  - Carolina Collection,9.4,A,SEALED,False
 2020-09-14,104.0,"Berzerk - Wata 6.0 A Sealed [Green Box], 2600 Atari 1982 USA....",122037,13825,Green Box,Berzerk,6.0,A,SEALED,False
 2021-02-08,120.0,"Air Raiders - Wata 9.4 A+ Sealed, 2600 M-Network 1982 USA. ...",122106,14037,,Air Raiders,9.4,A+,SEALED,False
@@ -5731,7 +5731,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2021-03-30,288.0,"Jurassic Park - Wata 9.4 C+ Sealed, GEN Sega 1993 USA. ...",312113,70075,,Jurassic Park,9.4,C+,SEALED,False
 2019-12-08,132.0,The Lion King Wata 9.2 A Sealed Genesis Virgin 1994 USA....,121949,13196,,The Lion King,9.2,A,SEALED,False
 2020-12-28,109.0,"Final Fantasy XII - Wata 8.5 A+ Sealed, PS2 Square Enix 2006 USA....",122052,17621,,Final Fantasy XII,8.5,A+,SEALED,False
-2021-04-05,5760.0,"Rampage - Wata 9.4 A Sealed [Oval SOQ TM, Later Production] (The Indiana Collection), NES Data East 1988 USA....",7242,97095,"Oval SOQ TM, Later Production] (The Indiana Collection",Rampage,9.4,A,SEALED,False
+2021-04-05,5760.0,"Rampage - Wata 9.4 A Sealed [Oval SOQ TM, Later Production] (The Indiana Collection), NES Data East 1988 USA....",7242,97095,"Oval SOQ TM, Later Production The Indiana Collection",Rampage,9.4,A,SEALED,False
 2021-04-05,1680.0,"Oddworld: Abe's Oddysee - Wata 9.6 B+ Sealed [Sony Security Label], PS1 GT 1997 USA....",7242,97249,Sony Security Label,Oddworld: Abe's Oddysee,9.6,B+,SEALED,False
 2020-03-06,3600.0,The Legend of Zelda: A Link to the Past [Standard Release] Wata 9.4 C+ Sealed SNES Nintendo 1992 USA....,7224,93055,Standard Release,The Legend of Zelda: A Link to the Past,9.4,C+,SEALED,False
 2020-05-03,1620.0,"Karate Champ [Rev-A, Round SOQ, Mid-Production] Wata 9.2 A+ Sealed 1986 USA....",7229,97133,"Rev-A, Round SOQ, Mid-Production",Karate Champ,9.2,A+,SEALED,False
@@ -5816,7 +5816,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2021-02-08,79.0,"Asteroids - Wata 6.0 NS Glue Seal [1981 Red box], 2600 Atari 1981 USA. ...",122106,14039,1981 Red box,Asteroids,6.0,,GLUE SEAL,False
 2020-12-21,264.0,"Star Wars: Jedi Arena - Wata 9.4 C+ Sealed [1983 Silver box], 2600 Parker Brothers 1983 USA. ...",122051,16057,1983 Silver box,Star Wars: Jedi Arena,9.4,C+,SEALED,False
 2021-06-22,720.0,"World Games - Wata 9.4 A+ Sealed [Rev-A, Round SOQ], NES Milton Bradley 1989 USA. ...",312125,69059,"Rev-A, Round SOQ",World Games,9.4,A+,SEALED,False
-2021-07-09,26400.0,"Raid on Bungeling bay - Wata 9.2 A Sealed [Hangtab, First Production] (The Carolina Collection), NES Broderbund 1987 USA....",7261,28045,"Hangtab, First Production] (The Carolina Collection",Raid on Bungeling bay,9.2,A,SEALED,False
+2021-07-09,26400.0,"Raid on Bungeling bay - Wata 9.2 A Sealed [Hangtab, First Production] (The Carolina Collection), NES Broderbund 1987 USA....",7261,28045,"Hangtab, First Production The Carolina Collection",Raid on Bungeling bay,9.2,A,SEALED,False
 2020-07-10,7500.0,"Super Mario 64 - Wata 9.2 A Sealed, N64 Nintendo 1996 USA....",7231,93051,,Super Mario 64,9.2,A,SEALED,False
 2020-10-26,156.0,"Wizards & Warriors - Wata 7.0 CIB [Rev-A, Round SOQ], NES Acclaim 1987 USA. ...",122043,18040,"Rev-A, Round SOQ",Wizards & Warriors,7.0,,CIB,False
 2021-06-22,720.0,"Addams Family Values - Wata 9.8 A++ Sealed [Made in Japan], SNES Ocean 1995 USA. ...",312125,69062,Made in Japan,Addams Family Values,9.8,A++,SEALED,False
@@ -6048,7 +6048,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2020-09-28,264.0,"One-On-One Basketball - Wata 9.4 B Sealed, 7800 Atari 1987 USA....",122039,17902,,One-On-One Basketball,9.4,B,SEALED,False
 2021-03-30,109.0,"Star Strike - Wata 9.2 A++ Sealed [1981 Blue box], INTV Mattel 1981 USA. ...",312113,70032,1981 Blue box,Star Strike,9.2,A++,SEALED,False
 2020-05-03,1800.0,"Bomberman [Rev-A, Round SOQ, Early Production] Wata 9.2 A Sealed NES Hudson Soft 1989 USA....",7229,97064,"Rev-A, Round SOQ, Early Production",Bomberman,9.2,A,SEALED,False
-2021-06-22,288.0,"Castlequest - Wata 9.0 A Sealed [Oval SOQ TM] (The Indiana Collection), NES Nexoft 1989 USA. ...",312125,69047,Oval SOQ TM] (The Indiana Collection,Castlequest,9.0,A,SEALED,False
+2021-06-22,288.0,"Castlequest - Wata 9.0 A Sealed [Oval SOQ TM] (The Indiana Collection), NES Nexoft 1989 USA. ...",312125,69047,Oval SOQ TM The Indiana Collection,Castlequest,9.0,A,SEALED,False
 2019-11-24,288.0,Fox's Peter Pan and the Pirates - Carolina Collection Wata 8.5 B+ Sealed NES THQ 1991 USA....,7212,97094,,Fox's Peter Pan and the Pirates - Carolina Collection,8.5,B+,SEALED,False
 2021-07-27,180.0,"Care Bears: Care Quest - Wata 9.6 A++ Sealed, GBA Game Factory 2005 USA....",312130,69063,,Care Bears: Care Quest,9.6,A++,SEALED,False
 2021-05-18,630.0,"Grand Theft Auto III - Wata 9.8 A++ Sealed [""Trilogy"" Release, Later Production], PS2 Rockstar 2001 USA. ...",312120,68085,"""Trilogy"" Release, Later Production",Grand Theft Auto III,9.8,A++,SEALED,False
@@ -6057,7 +6057,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2021-03-23,144.0,"Spider Fighter - Wata 9.4 NS No Seal [1982 Orange box], 2600 Activision 1982 USA. ...",312112,69016,1982 Orange box,Spider Fighter,9.4,,NO SEAL,False
 2019-02-23,930.0,"Super Mario 64 (N64, Nintendo, 1996) Wata 7.5 A (Seal Rating)....",7204,94443,"N64, Nintendo, 1996, Seal Rating",Super Mario 64,,,,False
 2021-06-22,1320.0,"Wrath of the Black Manta - Wata 9.8 A++ Sealed [Oval SOQ R], NES Taito 1990 USA. ...",312125,69060,Oval SOQ R,Wrath of the Black Manta,9.8,A++,SEALED,False
-2021-05-18,288.0,"Werewolf: The Last Warrior - Wata 9.4 CIB [Oval SOQ R] (The Carolina Collection), NES Data East 1990 USA. ...",312120,68041,Oval SOQ R] (The Carolina Collection,Werewolf: The Last Warrior,9.4,,CIB,False
+2021-05-18,288.0,"Werewolf: The Last Warrior - Wata 9.4 CIB [Oval SOQ R] (The Carolina Collection), NES Data East 1990 USA. ...",312120,68041,Oval SOQ R The Carolina Collection,Werewolf: The Last Warrior,9.4,,CIB,False
 2021-07-06,372.0,"Perfect Dark - Wata 9.0 A Sealed, N64 Rare 2000 USA....",312127,66059,,Perfect Dark,9.0,A,SEALED,False
 2020-12-21,384.0,"Halo 2 - Wata 9.6 A+ Sealed, XBOX Microsoft 2004 USA. ...",122051,16121,,Halo 2,9.6,A+,SEALED,False
 2021-02-08,840.0,"Mega Man X - Wata 8.5 CIB, SNES Capcom 1994 USA. ...",122106,14094,,Mega Man X,8.5,,CIB,False
@@ -6086,7 +6086,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2019-01-20,109.0,"Miracle Warriors: Seal of the Dark Lord (SMS, Sega, 1989) Wata 9.2 A (Seal Rating)....",121903,13292,"SMS, Sega, 1989, Seal Rating",Miracle Warriors: Seal of the Dark Lord,,,,False
 2021-04-02,19200.0,"Kirby's Dream Land - Wata 9.6 A+ Sealed, GB Nintendo 1992 USA....",7242,93050,,Kirby's Dream Land,9.6,A+,SEALED,False
 2021-02-01,156.0,"Kangaroo - Wata 9.6 A++ Sealed [1988 Silver box], 2600 Atari 1983 USA. ...",122105,12005,1988 Silver box,Kangaroo,9.6,A++,SEALED,False
-2021-04-05,1980.0,"Jackal - Wata 9.4 A+ Sealed [Rev-A, Round SOQ] (The Indiana Collection), NES Konami 1988 USA....",7242,97068,"Rev-A, Round SOQ] (The Indiana Collection",Jackal,9.4,A+,SEALED,False
+2021-04-05,1980.0,"Jackal - Wata 9.4 A+ Sealed [Rev-A, Round SOQ] (The Indiana Collection), NES Konami 1988 USA....",7242,97068,"Rev-A, Round SOQ The Indiana Collection",Jackal,9.4,A+,SEALED,False
 2021-06-15,312.0,"Frogger - Wata 9.4 A++ Sealed [Red Stripe, Later Production], 2600 Parker Brothers 1982 USA. ...",312124,68008,"Red Stripe, Later Production",Frogger,9.4,A++,SEALED,False
 2020-12-21,432.0,"Harry Potter and the Chamber of Secrets - Wata 9.4 A+ Sealed, GBC Electronic Arts 2002 USA. ...",122051,16104,,Harry Potter and the Chamber of Secrets,9.4,A+,SEALED,False
 2020-12-28,2040.0,"Spider-Man - Wata 9.8 A++ Sealed, 2600 Parker Brothers 1982 USA. ...",122052,17563,,Spider-Man,9.8,A++,SEALED,False
@@ -6169,7 +6169,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2020-11-23,384.0,"Contra III: The Alien Wars - Wata 5.5 B+ Sealed, SNES Konami 1992 USA. ...",122047,17799,,Contra III: The Alien Wars,5.5,B+,SEALED,False
 2021-04-05,1140.0,"Tennis - Wata 7.0 CIB [Matte Sticker, First Production], NES Nintendo 1985 USA....",7242,97109,"Matte Sticker, First Production",Tennis,7.0,,CIB,False
 2020-11-16,1574.4,"Spider-Man - Wata 9.8 A++ Sealed, 2600 Parker Brothers 1982 USA. ...",122046,15798,,Spider-Man,9.8,A++,SEALED,False
-2020-10-26,1680.0,"Robocop - Wata 9.6 A+ Sealed [Oval SOQ TM] (Indiana Collection), NES Data East 1989 USA. ...",122043,18027,Oval SOQ TM] (Indiana Collection,Robocop,9.6,A+,SEALED,False
+2020-10-26,1680.0,"Robocop - Wata 9.6 A+ Sealed [Oval SOQ TM] (Indiana Collection), NES Data East 1989 USA. ...",122043,18027,Oval SOQ TM Indiana Collection,Robocop,9.6,A+,SEALED,False
 2021-08-10,810.0,"The Simpsons: Bart vs. the Space Mutants - Wata 9.4 NS No Seal [Oval SOQ R], NES Acclaim 1991 USA....",312132,67041,Oval SOQ R,The Simpsons: Bart vs. the Space Mutants,9.4,,NO SEAL,False
 2020-12-07,216.0,"Last Action Hero (NFR) - Wata 9.6 A Sealed, GEN Sony Imagesoft 1993 USA. ...",122049,11733,NFR,Last Action Hero,9.6,A,SEALED,False
 2021-04-02,6600.0,"Monster in My Pocket - Wata 9.6 A Sealed [Oval SOQ R], NES Konami 1992 USA....",7242,93024,Oval SOQ R,Monster in My Pocket,9.6,A,SEALED,False
@@ -6340,7 +6340,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2020-06-08,192.0,"M.U.L.E. - Wata 8.0 A Sealed, NES Mindscape 1990 USA....",122023,13499,,M.U.L.E.,8.0,A,SEALED,False
 2021-07-13,456.0,"Cosmic Fantasy 2 - Wata 9.6 A++ Sealed, TG16 Working Designs 1992 USA....",312128,67062,,Cosmic Fantasy 2,9.6,A++,SEALED,False
 2020-05-03,456.0,Mega Man Zero 3 Wata 9.8 A++ Sealed GBA Capcom 2004 USA....,7229,97251,,Mega Man Zero 3,9.8,A++,SEALED,False
-2021-07-11,1080.0,"Baby Boomer - Wata 9.4 A++ Sealed [""Team Up!"" Sticker] (The Indiana Collection), NES Color Dreams 1989 USA. ...",7261,29015,"""Team Up!"" Sticker] (The Indiana Collection",Baby Boomer,9.4,A++,SEALED,False
+2021-07-11,1080.0,"Baby Boomer - Wata 9.4 A++ Sealed [""Team Up!"" Sticker] (The Indiana Collection), NES Color Dreams 1989 USA. ...",7261,29015,"""Team Up!"" Sticker The Indiana Collection",Baby Boomer,9.4,A++,SEALED,False
 2020-01-27,132.0,Judge Dredd Wata 9.2 B+ Sealed GEN Acclaim 1995 USA. ...,122004,18009,,Judge Dredd,9.2,B+,SEALED,False
 2021-04-20,126.0,"Jungle Hunt - Wata 9.4 A++ Sealed [1983 Orange box], Apple II Atarisoft 1983 USA....",312116,68001,1983 Orange box,Jungle Hunt,9.4,A++,SEALED,False
 2019-08-11,660.0,"Excitebike (NES, Nintendo, 1985, USA) Wata 5.5 CIB (Complete in Box) Box 4.0, Cart 7.0, Manual 7.0, Variant: Gloss Sticker, 2n...",121932,13269,"NES, Nintendo, 1985, USA, Complete in Box",Excitebike,,,,True
@@ -6410,7 +6410,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2019-08-01,9000.0,"Kid Icarus (NES, Nintendo, 1987) Wata 8.0 A (Seal Rating) Variant: Rev-A Round SOQ....",7211,91099,"NES, Nintendo, 1987, Seal Rating",Kid Icarus,,,,True
 2020-04-13,150.0,Brett Hull Hockey '95 [Made in Japan] Wata 9.8 A++ Sealed SNES Accolade 1994 USA....,122015,13819,Made in Japan,Brett Hull Hockey '95,9.8,A++,SEALED,False
 2020-11-20,46800.0,"Metroid - Wata 9.4 A+ Sealed [Rev-A, Round SOQ, Mid-Production], NES Nintendo 1987 USA....",7236,93020,"Rev-A, Round SOQ, Mid-Production",Metroid,9.4,A+,SEALED,False
-2019-02-21,2880.0,"Dragon Warrior (Prototype) (NES, Nintendo, 1989) Wata Certified....",7204,92250,"Prototype) (NES, Nintendo, 1989",Dragon Warrior,,,,False
+2019-02-21,2880.0,"Dragon Warrior (Prototype) (NES, Nintendo, 1989) Wata Certified....",7204,92250,"Prototype NES, Nintendo, 1989",Dragon Warrior,,,,False
 2021-03-16,336.0,"Need for Speed II - Wata 7.5 A+ Sealed [K-A Rating, Sony Security Label] PS1 EA 1997 USA....",312111,68074,"K-A Rating, Sony Security Label",Need for Speed II,7.5,A+,SEALED,False
 2021-05-11,67.0,"X-Men vs. Street Fighter - Wata 7.0 CIB, Saturn Capcom 1997 JPN. ...",312119,67077,,X-Men vs. Street Fighter,7.0,,CIB,False
 2020-09-21,288.0,"Airwolf - Wata 9.4 B+ Sealed, NES Acclaim 1989 USA. ...",122038,15781,,Airwolf,9.4,B+,SEALED,False
@@ -6510,12 +6510,12 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2019-11-10,300.0,"Pokemon Yellow [No Rating, 100% Fiber, Double-ended Box] Wata 8.0 CIB GB Nintendo 1999 USA....",121945,13247,"No Rating, 100% Fiber, Double-ended Box",Pokemon Yellow,8.0,,CIB,False
 2020-07-10,8400.0,"Pokemon Blue Version - Wata 9.6 A++ Sealed [Solid ESRB, Later Production], GB Nintendo 1998 USA....",7231,93045,"Solid ESRB, Later Production",Pokemon Blue Version,9.6,A++,SEALED,False
 2019-11-22,1800.0,Super C [Oval SOQ TM] - Carolina Collection Wata 9.0 A Sealed NES Konami 1990 USA....,7212,93047,Oval SOQ TM,Super C  - Carolina Collection,9.0,A,SEALED,False
-2019-02-21,900.0,"Star Fox Super Weekend (NFR) (SNES, Nintendo, 1993) Wata 6.0 Loose (Cartridge)....",7204,92259,"NFR) (SNES, Nintendo, 1993, Cartridge",Star Fox Super Weekend,,,,False
+2019-02-21,900.0,"Star Fox Super Weekend (NFR) (SNES, Nintendo, 1993) Wata 6.0 Loose (Cartridge)....",7204,92259,"NFR SNES, Nintendo, 1993, Cartridge",Star Fox Super Weekend,,,,False
 2020-05-03,384.0,Defender II [Red Box] Wata 9.6 A+ Sealed Atari 2600 Atari 1988 USA....,7229,97009,Red Box,Defender II,9.6,A+,SEALED,False
 2020-12-21,720.0,"Donkey Kong - Wata 9.4 A++ Sealed [1988 Silver box], 7800 Atari 1988 USA. ...",122051,16060,1988 Silver box,Donkey Kong,9.4,A++,SEALED,False
 2020-07-12,288.0,"Defcon 5 - Wata 9.0 A Sealed [Ridged Longbox], PS1 Data East 1995 USA....",7231,97177,Ridged Longbox,Defcon 5,9.0,A,SEALED,False
 2021-01-11,144.0,"E.T. the Extra Terrestrial - Wata 8.0 NS Glue Seal, [1982 Silver box], 2600 Atari 1982 USA. ...",122102,13733,1982 Silver box,E.T. the Extra Terrestrial,8.0,,GLUE SEAL,False
-2019-03-03,420.0,"The Legend of Zelda: Ocarina of Time / Master Quest [NFR] (GameCube, Nintendo, 2003) Wata 9.8 A (Seal Rating)....",121909,11345,"NFR] (GameCube, Nintendo, 2003, Seal Rating",The Legend of Zelda: Ocarina of Time / Master Quest,,,,False
+2019-03-03,420.0,"The Legend of Zelda: Ocarina of Time / Master Quest [NFR] (GameCube, Nintendo, 2003) Wata 9.8 A (Seal Rating)....",121909,11345,"NFR GameCube, Nintendo, 2003, Seal Rating",The Legend of Zelda: Ocarina of Time / Master Quest,,,,False
 2019-11-03,276.0,"Teenage Mutant Ninja Turtles II: The Arcade Game [Oval SOQ R, Pizza Offer] Wata 8.5 CIB NES Ultra 1990 USA....",121944,11819,"Oval SOQ R, Pizza Offer",Teenage Mutant Ninja Turtles II: The Arcade Game,8.5,,CIB,False
 2021-04-05,1920.0,"T2: The Arcade Game - Wata 9.8 A++ Sealed, SNES LJN 1994 USA....",7242,97135,,T2: The Arcade Game,9.8,A++,SEALED,False
 2020-11-09,264.0,"River Raid - Wata 9.4 A++ Sealed [1982 Burgundy box], 2600 Activision 1982 USA. ...",122045,13766,1982 Burgundy box,River Raid,9.4,A++,SEALED,False
@@ -6630,7 +6630,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2021-06-01,156.0,"Raiders of the Lost Ark - Wata 9.0 NS Glue Seal [1982 Silver box], 2600 Atari 1982 USA....",312122,66018,1982 Silver box,Raiders of the Lost Ark,9.0,,GLUE SEAL,False
 2020-03-08,384.0,"Robowarrior [Rev-A, Round SOQ, Early Production] Wata 8.5 A+ Sealed NES Jaleco 1988 USA....",7224,97042,"Rev-A, Round SOQ, Early Production",Robowarrior,8.5,A+,SEALED,False
 2020-02-17,156.0,"The Simpsons: Bart vs. the Space Mutants [""Matt Groening"" Low] Wata 8.5 CIB NES Nintendo 1991 USA....",122007,16056,"""Matt Groening"" Low",The Simpsons: Bart vs. the Space Mutants,8.5,,CIB,False
-2019-12-15,228.0,Mario Kart: Double Dash!! [Not for Resale (System Pack-in)] Wata 8.5 A Sealed G.Cube Nintendo 2003 USA....,121950,15261,Not for Resale (System Pack-in),Mario Kart: Double Dash!!,8.5,A,SEALED,False
+2019-12-15,228.0,Mario Kart: Double Dash!! [Not for Resale (System Pack-in)] Wata 8.5 A Sealed G.Cube Nintendo 2003 USA....,121950,15261,Not for Resale System Pack-in,Mario Kart: Double Dash!!,8.5,A,SEALED,False
 2020-04-06,552.0,"The Legend of Zelda [No Rev-A, First Production] Wata 4.5 CIB NES Nintendo 1987 USA....",122014,11783,"No Rev-A, First Production",The Legend of Zelda,4.5,,CIB,False
 2020-05-11,120.0,"Hydro Thunder - Wata 8.5 A+ Sealed, N64 Midway 2000 USA....",122019,13791,,Hydro Thunder,8.5,A+,SEALED,False
 2020-09-07,94.0,"Kung-Fu Master - Wata 5.5 A Sealed, 2600 Activision 1987 USA....",122036,11797,,Kung-Fu Master,5.5,A,SEALED,False
@@ -6752,7 +6752,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2020-11-22,1080.0,"The Adventures of Tom Sawyer - Wata 9.6 A+ Sealed [Oval SOQ TM], NES Seta 1989 USA....",7236,97136,Oval SOQ TM,The Adventures of Tom Sawyer,9.6,A+,SEALED,False
 2021-08-03,432.0,"Major League Baseball [Rev-A, Round SOQ, Early Production] Wata 9.4 B+ Sealed NES LJN 1988 USA....",312131,66060,"Rev-A, Round SOQ, Early Production",Major League Baseball,9.4,B+,SEALED,False
 2021-07-11,3120.0,"Ninja Taro - Wata 9.6 A Sealed, GB Sammy 1992 USA....",7261,29143,,Ninja Taro,9.6,A,SEALED,False
-2021-03-23,240.0,"Cybernoid: The Fighting Machine - Wata 9.8 A+ Sealed [Oval SOQ TM] (The Indiana Collection), NES Acclaim 1989 USA. ...",312112,69035,Oval SOQ TM] (The Indiana Collection,Cybernoid: The Fighting Machine,9.8,A+,SEALED,False
+2021-03-23,240.0,"Cybernoid: The Fighting Machine - Wata 9.8 A+ Sealed [Oval SOQ TM] (The Indiana Collection), NES Acclaim 1989 USA. ...",312112,69035,Oval SOQ TM The Indiana Collection,Cybernoid: The Fighting Machine,9.8,A+,SEALED,False
 2021-01-15,4320.0,"Super Metroid - Wata 8.5 B+ Sealed [Made in Japan], SNES Nintendo 1994 USA....",7239,93034,Made in Japan,Super Metroid,8.5,B+,SEALED,False
 2020-12-07,552.0,"Flight of the Intruder - Wata 9.8 A++ Sealed [Oval SOQ R], NES Mindscape 1991 USA....",122049,11706,Oval SOQ R,Flight of the Intruder,9.8,A++,SEALED,False
 2020-11-20,2880.0,"Batman Returns - Wata 9.8 A++ Sealed, NES Konami 1993 USA....",7236,93007,,Batman Returns,9.8,A++,SEALED,False
@@ -6855,7 +6855,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2020-01-06,408.0,"Golgo 13: Top Secret Episode [Rev-A, Round SOQ] - Indiana Collection Wata 9.4 A+ Sealed NES Vic Tokai 1988 USA....",122001,11947,"Rev-A, Round SOQ",Golgo 13: Top Secret Episode  - Indiana Collection,9.4,A+,SEALED,False
 2021-04-02,19200.0,"Super Mario Bros. 3 - Wata 9.0 NS No Seal [""Bros."" Left, First Production], NES Nintendo 1991 USA....",7242,93031,"""Bros."" Left, First Production",Super Mario Bros. 3,9.0,,NO SEAL,False
 2020-12-14,59.0,"Gravitar - Wata 8.5 A Sealed [1988 Red box], 2600 Atari 1983 USA. ...",122050,13849,1988 Red box,Gravitar,8.5,A,SEALED,False
-2021-04-05,6600.0,"Rad Racer - Wata 9.4 A+ Sealed [Oval SOQ TM, Later Production] (Indiana Collection), NES Nintendo 1987 USA....",7242,97093,"Oval SOQ TM, Later Production] (Indiana Collection",Rad Racer,9.4,A+,SEALED,False
+2021-04-05,6600.0,"Rad Racer - Wata 9.4 A+ Sealed [Oval SOQ TM, Later Production] (Indiana Collection), NES Nintendo 1987 USA....",7242,97093,"Oval SOQ TM, Later Production Indiana Collection",Rad Racer,9.4,A+,SEALED,False
 2020-08-03,74.0,"KISS: Psycho Circus: The Nightmare Child - Wata 7.0 B Sealed, D.Cast Take-Two 2000 USA....",122031,11753,,KISS: Psycho Circus: The Nightmare Child,7.0,B,SEALED,False
 2021-07-11,2160.0,"WarCraft II: The Dark Saga - Wata 9.8 A Sealed, Saturn Electronic Arts 1997 USA. ...",7261,29234,,WarCraft II: The Dark Saga,9.8,A,SEALED,False
 2020-05-03,360.0,"Bee 52 [""8-Bit Game Deck""] Wata 9.2 A+ Sealed NES Camerica 1992 USA....",7229,97061,"""8-Bit Game Deck""",Bee 52,9.2,A+,SEALED,False
@@ -6908,12 +6908,12 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2019-03-31,74.0,"Halo 3: ODST (Xbox 360, Microsoft, 2007) Wata 9.6 A+ (Seal Rating)....",121913,17312,"Xbox 360, Microsoft, 2007, Seal Rating",Halo 3: ODST,,,,False
 2020-12-21,408.0,"The Dukes of Hazzard: Racing for Home - Wata 9.8 A++ Sealed [Sony Security Label], PS1 Southpeak 1999 USA. ...",122051,16117,Sony Security Label,The Dukes of Hazzard: Racing for Home,9.8,A++,SEALED,False
 2021-04-05,1260.0,"Pac-Man - Wata 9.2 A+ Sealed, GB Namco 1991 USA....",7242,97156,,Pac-Man,9.2,A+,SEALED,False
-2021-07-09,5760.0,"Tiny Toon Adventures - Wata 9.6 A+ Sealed [Oval SOQ R] (Carolina Collection), NES Konami 1991 USA....",7261,28066,Oval SOQ R] (Carolina Collection,Tiny Toon Adventures,9.6,A+,SEALED,False
+2021-07-09,5760.0,"Tiny Toon Adventures - Wata 9.6 A+ Sealed [Oval SOQ R] (Carolina Collection), NES Konami 1991 USA....",7261,28066,Oval SOQ R Carolina Collection,Tiny Toon Adventures,9.6,A+,SEALED,False
 2020-05-03,1140.0,Mario Party Wata 8.5 A+ Sealed N64 Nintendo 1998 USA....,7229,97242,,Mario Party,8.5,A+,SEALED,False
 2021-07-06,79.0,"Defender - Wata 6.0 NS Glue Seal [1982 Blue box], 2600 Atari 1982 USA....",312127,66005,1982 Blue box,Defender,6.0,,GLUE SEAL,False
 2021-04-06,204.0,"Mega Man: Dr. Wily's Revenge - Wata 4.0 A Sealed, GB Capcom 1991 USA. ...",312114,66052,,Mega Man: Dr. Wily's Revenge,4.0,A,SEALED,False
 2021-05-11,138.0,"Bust-A-Move 4 - Wata 9.4 A++ Sealed, D.Cast Club Acclaim 2000 USA. ...",312119,67078,,Bust-A-Move 4,9.4,A++,SEALED,False
-2021-02-08,528.0,"The Magic of Scheherazade - Wata 9.6 A+ Sealed [Oval SOQ TM] (The Indiana Collection), NES Culture Brain 1989 USA. ...",122106,14082,Oval SOQ TM] (The Indiana Collection,The Magic of Scheherazade,9.6,A+,SEALED,False
+2021-02-08,528.0,"The Magic of Scheherazade - Wata 9.6 A+ Sealed [Oval SOQ TM] (The Indiana Collection), NES Culture Brain 1989 USA. ...",122106,14082,Oval SOQ TM The Indiana Collection,The Magic of Scheherazade,9.6,A+,SEALED,False
 2020-10-26,138.0,"Oscar's Trash Race - Wata 8.5 A+ Sealed, 2600 Atari 1983 USA. ...",122043,17988,,Oscar's Trash Race,8.5,A+,SEALED,False
 2020-10-26,168.0,"Gravitar - Wata 9.4 A+ Sealed [1988 Red box], 2600 Atari 1983 USA. ...",122043,17979,1988 Red box,Gravitar,9.4,A+,SEALED,False
 2020-12-07,312.0,"Conker's Pocket Tales - Wata 8.5 A+ Sealed, GBC Nintendo 1999 USA. ...",122049,11725,,Conker's Pocket Tales,8.5,A+,SEALED,False
@@ -6956,7 +6956,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2020-05-03,492.0,Asteroids Wata 7.5 NS Atari 2600 Atari 1981 USA....,7229,97003,,Asteroids,7.5,,,False
 2021-07-20,11100.0,"Teenage Mutant Ninja Turtles II: The Arcade Game - Wata 9.0 A Sealed [Oval SOQ R, No Pizza Offer], NES Ultra 1990 USA....",312129,68052,"Oval SOQ R, No Pizza Offer",Teenage Mutant Ninja Turtles II: The Arcade Game,9.0,A,SEALED,False
 2021-03-09,1140.0,"Kung Fu Superkicks - Wata 9.6 A++ Sealed, 2600 Telegames 1983 USA....",312110,67007,,Kung Fu Superkicks,9.6,A++,SEALED,False
-2019-04-28,1080.0,"Halo: Combat Evolved (NFR) (Xbox, Microsoft, 2001) Wata 9.0 CIB (Complete in Box) Box 8.5, Disc 9.2, Manual 9.4....",121917,17277,"NFR) (Xbox, Microsoft, 2001, Complete in Box",Halo: Combat Evolved,,,,False
+2019-04-28,1080.0,"Halo: Combat Evolved (NFR) (Xbox, Microsoft, 2001) Wata 9.0 CIB (Complete in Box) Box 8.5, Disc 9.2, Manual 9.4....",121917,17277,"NFR Xbox, Microsoft, 2001, Complete in Box",Halo: Combat Evolved,,,,False
 2020-11-20,9001.2,"The Legend of Zelda: Ocarina of Time - Wata 9.4 A+ Sealed [Collector's Edition], N64 Nintendo 1998 USA....",7236,93058,Collector's Edition,The Legend of Zelda: Ocarina of Time,9.4,A+,SEALED,False
 2021-02-22,222.0,"720° - Wata 8.5 B+ Sealed [Oval SOQ TM], NES Mindscape 1989 USA. ...",122108,18059,Oval SOQ TM,720°,8.5,B+,SEALED,False
 2020-05-11,132.0,"George Foreman's KO Boxing - Wata 7.5 A Sealed, NES Acclaim 1992 USA....",122019,13764,,George Foreman's KO Boxing,7.5,A,SEALED,False
@@ -7162,7 +7162,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2021-01-11,99.0,"Kangaroo - Wata 9.4 A+ Sealed [1988 Silver box], 2600 Atari 1983 USA. ...",122102,13738,1988 Silver box,Kangaroo,9.4,A+,SEALED,False
 2021-01-04,288.0,"Super Football - Wata 9.8 A Sealed [1988 Red box], 2600 Atari 1988 USA. ...",122101,11680,1988 Red box,Super Football,9.8,A,SEALED,False
 2020-09-13,1680.0,"The Legend of Zelda: The Wind Waker - Wata 9.6 A Sealed, G.Cube Nintendo 2003 USA....",7234,97130,,The Legend of Zelda: The Wind Waker,9.6,A,SEALED,False
-2021-03-16,1140.0,"WWF WrestleMania - Wata 9.6 CIB [Rev-A, Round SOQ] (The Carolina Collection), NES Acclaim 1989 USA. ...",312111,68051,"Rev-A, Round SOQ] (The Carolina Collection",WWF WrestleMania,9.6,,CIB,False
+2021-03-16,1140.0,"WWF WrestleMania - Wata 9.6 CIB [Rev-A, Round SOQ] (The Carolina Collection), NES Acclaim 1989 USA. ...",312111,68051,"Rev-A, Round SOQ The Carolina Collection",WWF WrestleMania,9.6,,CIB,False
 2019-09-15,1560.0,"Donkey Kong Classics [Round SOQ, First print] Wata 9.4 A++ Sealed NES, Nintendo, 1988, USA....",121937,15400,"Round SOQ, First print",Donkey Kong Classics,9.4,A++,SEALED,False
 2021-03-09,780.0,"Hooters Road Trip - Wata 9.8 A++ Sealed [Sony Security Label], PS1 Ubisoft 2002 USA...",312110,67086,Sony Security Label,Hooters Road Trip,9.8,A++,SEALED,False
 2019-08-11,306.0,"StarFox (SNES, Nintendo, 1993, USA) Wata 8.0 B+ (Seal Rating)....",121932,13266,"SNES, Nintendo, 1993, USA, Seal Rating",StarFox,,,,False
@@ -7225,7 +7225,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2020-11-09,408.0,"Frogger - Wata 9.4 A++ Sealed [No Stripe, Early Production], 2600 Parker Brothers 1982 USA. ...",122045,13755,"No Stripe, Early Production",Frogger,9.4,A++,SEALED,False
 2021-02-22,89.0,"Spider Fighter - Wata 7.5 NS No Seal [1982 Orange box], 2600 Activision 1982 USA. ...",122108,18032,1982 Orange box,Spider Fighter,7.5,,NO SEAL,False
 2019-06-02,84.0,"Whomp 'Em (NES, Jaleco, 1991) Wata 6.0 CIB (Complete in Box) Box 5.0, Cart 8.0, Manual 6.5....",121922,11198,"NES, Jaleco, 1991, Complete in Box",Whomp 'Em,,,,False
-2020-09-13,2880.0,"Castlevania III: Dracula's Curse - Wata 9.2 A Sealed [with Trip Offer] (Atwood Collection), NES Konami 1990 USA....",7234,97062,with Trip Offer] (Atwood Collection,Castlevania III: Dracula's Curse,9.2,A,SEALED,False
+2020-09-13,2880.0,"Castlevania III: Dracula's Curse - Wata 9.2 A Sealed [with Trip Offer] (Atwood Collection), NES Konami 1990 USA....",7234,97062,with Trip Offer Atwood Collection,Castlevania III: Dracula's Curse,9.2,A,SEALED,False
 2021-01-17,492.0,"Asteroids - Wata 9.6 A++ Sealed [1981 Red box], 2600 Atari 1981 USA. ...",7239,97002,1981 Red box,Asteroids,9.6,A++,SEALED,False
 2021-02-08,186.0,"Cyber Stadium Series: Base Wars - Wata 7.5 B+ Sealed [Oval SOQ R], NES Ultra 1991 USA. ...",122106,14075,Oval SOQ R,Cyber Stadium Series: Base Wars,7.5,B+,SEALED,False
 2020-12-28,384.0,"Kingdom Hearts II - Wata 9.4 A+ Sealed, PS2 Square Enix 2006 USA. ...",122052,17623,,Kingdom Hearts II,9.4,A+,SEALED,False
@@ -7311,7 +7311,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2021-04-05,720.0,"Mortal Kombat: Deception - Wata 9.8 A Sealed [Sony Security Label], PS2 Midway 2004 USA....",7242,97272,Sony Security Label,Mortal Kombat: Deception,9.8,A,SEALED,False
 2019-04-07,192.0,"Wurm: Journey to the Center of the Earth (NES, Nintendo, 1991) Wata 8.5 A (Seal Rating)....",121914,11287,"NES, Nintendo, 1991, Seal Rating",Wurm: Journey to the Center of the Earth,,,,False
 2021-04-05,2640.0,"Harvest Moon 64 - Wata 8.0 A Sealed, N64 Natsume 1999 USA....",7242,97167,,Harvest Moon 64,8.0,A,SEALED,False
-2021-07-09,3840.0,"The Krion Conquest - Wata 9.6 A++ Sealed [Oval SOQ R] (The Indiana Collection), NES Vic Tokai 1991 USA....",7261,28029,Oval SOQ R] (The Indiana Collection,The Krion Conquest,9.6,A++,SEALED,False
+2021-07-09,3840.0,"The Krion Conquest - Wata 9.6 A++ Sealed [Oval SOQ R] (The Indiana Collection), NES Vic Tokai 1991 USA....",7261,28029,Oval SOQ R The Indiana Collection,The Krion Conquest,9.6,A++,SEALED,False
 2021-01-25,720.0,"Ultimate Basketball - Wata 9.8 A++ Sealed [Oval SOQ R], NES Sammy 1990 USA....",122104,17958,Oval SOQ R,Ultimate Basketball,9.8,A++,SEALED,False
 2021-03-01,4080.0,"The Legend of Zelda: A Link to the Past - Wata - 9.6 A++ Sealed, SNES Nintendo 1992 USA. ...",122109,12089,,The Legend of Zelda: A Link to the Past,,A++,SEALED,False
 2021-08-17,1080.0,"Super Mario Bros. Classic NES Series Wata 9.0 A Sealed, GBA Nintendo 2004 USA....",312133,68066,,Super Mario Bros. Classic NES Series,9.0,A,SEALED,False
@@ -7493,9 +7493,9 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2021-08-24,109.0,"Raiders of the Lost Ark - Wata 7.0 NS Glue Seal [1982 Silver box], 2600 Atari 1982 USA....",312134,69017,1982 Silver box,Raiders of the Lost Ark,7.0,,GLUE SEAL,False
 2019-12-01,6600.0,"Super Mario Bros. [Early Oval SOQ TM, Later Release] Wata 9.2 A+ NES Nintendo 1985 USA...",121948,11316,"Early Oval SOQ TM, Later Release",Super Mario Bros.,9.2,A+,,False
 2021-01-11,324.0,"Star Wars: The Empire Strikes Back - Wata 9.4 C+ Sealed, 2600 Parker Brothers 1982 USA. ...",122102,13752,,Star Wars: The Empire Strikes Back,9.4,C+,SEALED,False
-2020-10-26,156.0,"Defender of the Crown - Wata 8.0 A Sealed [Oval SOQ TM] (Carolina Collection), NES Ultra 1989 USA....",122043,18013,Oval SOQ TM] (Carolina Collection,Defender of the Crown,8.0,A,SEALED,False
+2020-10-26,156.0,"Defender of the Crown - Wata 8.0 A Sealed [Oval SOQ TM] (Carolina Collection), NES Ultra 1989 USA....",122043,18013,Oval SOQ TM Carolina Collection,Defender of the Crown,8.0,A,SEALED,False
 2020-02-03,204.0,Wario's Woods Wata 9.4 A+ Sealed NES Nintendo 1994 USA....,122005,11897,,Wario's Woods,9.4,A+,SEALED,False
-2019-06-30,132.0,"The Legend of Zelda [Classic NES Series] (GBA, Nintendo, 2004) Wata 9.2 A (Seal rating)....",121926,19228,"Classic NES Series] (GBA, Nintendo, 2004, Seal rating",The Legend of Zelda,,,,False
+2019-06-30,132.0,"The Legend of Zelda [Classic NES Series] (GBA, Nintendo, 2004) Wata 9.2 A (Seal rating)....",121926,19228,"Classic NES Series GBA, Nintendo, 2004, Seal rating",The Legend of Zelda,,,,False
 2019-11-24,408.0,F-15 Strike Eagle - Carolina Collection Wata 9.4 A+ Sealed NES Microphase 1992 USA....,7212,97090,,F-15 Strike Eagle - Carolina Collection,9.4,A+,SEALED,False
 2020-08-17,180.0,"Zelda II: The Adventure of Link - Wata 7.0 CIB [Promotional Copy], NES Nintendo 1988 USA....",122033,15780,Promotional Copy,Zelda II: The Adventure of Link,7.0,,CIB,False
 2021-05-11,264.0,"Spider-Man - Wata 9.4 A Sealed [Sony Security Label], PS2 Activision 2002 USA. ...",312119,67085,Sony Security Label,Spider-Man,9.4,A,SEALED,False
@@ -7723,7 +7723,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2020-09-14,750.0,"E.T. the Extra Terrestrial - Wata 9.0 A++ Sealed, 2600 Atari 1982 USA. ...",122037,13829,,E.T. the Extra Terrestrial,9.0,A++,SEALED,False
 2020-06-22,35.0,"Hot Slots (REPRODUCTION) - Wata 7.5 Cart, NES Panesian 1991 USA....",122025,17959,REPRODUCTION,Hot Slots,7.5,,,False
 2021-06-08,94.0,"Jr. Pac-Man - Wata 7.0 B+ Sealed [1988 Red box], 2600 Atari 1986 USA....",312123,66015,1988 Red box,Jr. Pac-Man,7.0,B+,SEALED,False
-2020-09-13,780.0,"Dragon Warrior - Wata 8.5 A+ Sealed [Promotional Copy] (Atwood Collection), NES Nintendo 1989 USA....",7234,97066,Promotional Copy] (Atwood Collection,Dragon Warrior,8.5,A+,SEALED,False
+2020-09-13,780.0,"Dragon Warrior - Wata 8.5 A+ Sealed [Promotional Copy] (Atwood Collection), NES Nintendo 1989 USA....",7234,97066,Promotional Copy Atwood Collection,Dragon Warrior,8.5,A+,SEALED,False
 2020-09-07,240.0,"Super Godzilla - Wata 7.5 A Sealed, SNES TOHO 1994 USA. ...",122036,11830,,Super Godzilla,7.5,A,SEALED,False
 2020-09-11,480.0,"Enduro - Wata 9.8 A+ Sealed, 2600 ActiVision 1983 USA....",7234,93006,,Enduro,9.8,A+,SEALED,False
 2020-09-11,19800.0,"Mike Tyson's Punch-Out!! - Wata 8.5 A Sealed [Oval SOQ TM, Later Production], NES Nintendo 1987 USA....",7234,93024,"Oval SOQ TM, Later Production",Mike Tyson's Punch-Out!!,8.5,A,SEALED,False
@@ -7795,7 +7795,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2021-04-13,4800.0,"Mario Party 2 - Wata 9.4 A++ Sealed, N64 Nintendo 1999 USA. ...",312115,67055,,Mario Party 2,9.4,A++,SEALED,False
 2020-09-21,168.0,"Jungle Hunt - Wata 9.4 A++ Sealed [1988 Silver Box], 2600 Atari 1983 USA. ...",122038,15758,1988 Silver Box,Jungle Hunt,9.4,A++,SEALED,False
 2020-10-12,264.0,"Suikoden IV - Wata 9.8 A++ Sealed, PS2 Konami 2005 USA....",122041,13823,,Suikoden IV,9.8,A++,SEALED,False
-2021-07-09,36000.0,"Gumshoe - Wata 9.0 A Sealed [Hangtab, 2 Code, Mid-Production] (The Carolina Collection), NES Nintendo 1986 USA....",7261,28027,"Hangtab, 2 Code, Mid-Production] (The Carolina Collection",Gumshoe,9.0,A,SEALED,False
+2021-07-09,36000.0,"Gumshoe - Wata 9.0 A Sealed [Hangtab, 2 Code, Mid-Production] (The Carolina Collection), NES Nintendo 1986 USA....",7261,28027,"Hangtab, 2 Code, Mid-Production The Carolina Collection",Gumshoe,9.0,A,SEALED,False
 2021-06-08,3360.0,"Pokemon Pinball: Ruby and Sapphire - Wata 9.8 A++ Sealed, GBA Nintendo 2003 USA....",312123,66063,,Pokemon Pinball: Ruby and Sapphire,9.8,A++,SEALED,False
 2021-04-27,456.0,"Castelian - Wata 8.0 A+ Sealed [Oval SOQ R], NES Triffix 1991 USA. ...",312117,69029,Oval SOQ R,Castelian,8.0,A+,SEALED,False
 2021-01-18,552.0,"Grand Theft Auto: Vice City - Wata 9.8 A++ Sealed [""Trilogy"" Release, Later Production], PS2 Rockstar 2002 USA. ...",122103,15947,"""Trilogy"" Release, Later Production",Grand Theft Auto: Vice City,9.8,A++,SEALED,False
@@ -7992,7 +7992,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2021-07-11,1860.0,"Bronkie the Bronchiasaurus - Wata 9.8 A++ Sealed [Made in Mexico], SNES Raya Systems 1995 USA. ...",7261,29088,Made in Mexico,Bronkie the Bronchiasaurus,9.8,A++,SEALED,False
 2020-12-14,276.0,"Rygar - Wata 8.5 CIB [Hangtab, No Rev-A, Round SOQ], NES Tecmo 1987 USA....",122050,13886,"Hangtab, No Rev-A, Round SOQ",Rygar,8.5,,CIB,False
 2021-04-06,95.0,"Atlantis - Wata 9.4 A++ Sealed [1982 Silver box], INTV Imagic 1982 USA. ...",312114,66025,1982 Silver box,Atlantis,9.4,A++,SEALED,False
-2019-06-23,180.0,"Super Mario Bros. 3 (Right Bros) (NES, Nintendo, 1990) Wata 8.5 CIB (Complete in Box) Box 9.0, Cart 8.0, Manual 7.5....",121925,17274,"Right Bros) (NES, Nintendo, 1990, Complete in Box",Super Mario Bros. 3,,,,False
+2019-06-23,180.0,"Super Mario Bros. 3 (Right Bros) (NES, Nintendo, 1990) Wata 8.5 CIB (Complete in Box) Box 9.0, Cart 8.0, Manual 7.5....",121925,17274,"Right Bros NES, Nintendo, 1990, Complete in Box",Super Mario Bros. 3,,,,False
 2021-07-11,528.0,"Super James Pond - Wata 9.6 A+ Sealed [Made in Japan], SNES American Softworks 1993 USA....",7261,29118,Made in Japan,Super James Pond,9.6,A+,SEALED,False
 2020-11-02,336.0,"Super Mario Bros. Deluxe - Wata 9.4 B Sealed, GBC Nintendo 1999 USA. ...",122044,11931,,Super Mario Bros. Deluxe,9.4,B,SEALED,False
 2020-03-30,74.0,"Defender II [Rev-A, Round SOQ] Wata 5.5 A Sealed NES HAL 1988 USA....",122013,19910,"Rev-A, Round SOQ",Defender II,5.5,A,SEALED,False
@@ -8031,7 +8031,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2021-07-20,11400.0,"Pokemon Red Version - Wata 8.5 A+ Sealed [Sandshrew, First Production], GB 1998 USA....",312129,68060,"Sandshrew, First Production",Pokemon Red Version,8.5,A+,SEALED,False
 2021-06-29,780.0,"Spy vs. Spy - Wata 9.0 A Sealed, SMS Sega 1986 USA....",312126,70062,,Spy vs. Spy,9.0,A,SEALED,False
 2021-07-11,2640.0,"Final Fantasy Mystic Quest - Wata 9.4 A Sealed [Made in Japan], SNES Square 1992 USA. ...",7261,29094,Made in Japan,Final Fantasy Mystic Quest,9.4,A,SEALED,False
-2021-06-22,552.0,"Shadowgate - Wata 9.6 A+ Sealed [Oval SOQ TM] (The Indiana Collection), NES Kemco-Seika 1989 USA. ...",312125,69056,Oval SOQ TM] (The Indiana Collection,Shadowgate,9.6,A+,SEALED,False
+2021-06-22,552.0,"Shadowgate - Wata 9.6 A+ Sealed [Oval SOQ TM] (The Indiana Collection), NES Kemco-Seika 1989 USA. ...",312125,69056,Oval SOQ TM The Indiana Collection,Shadowgate,9.6,A+,SEALED,False
 2020-08-10,252.0,"Suicide Mission - Wata 8.0 A+ Sealed, 2600 Starpath 1982 USA....",122032,13765,,Suicide Mission,8.0,A+,SEALED,False
 2020-07-12,360.0,Roger Clemens' MVP Baseball [Oval SOQ TM] - Indiana Collection Wata 9.2 A Sealed NES LJN 1991 USA....,7231,97098,Oval SOQ TM,Roger Clemens' MVP Baseball  - Indiana Collection,9.2,A,SEALED,False
 2020-06-29,204.0,"Greg Norman's Golf Power - Wata 9.2 B+ Sealed, NES Virgin 1992 USA....",122026,20141,,Greg Norman's Golf Power,9.2,B+,SEALED,False
@@ -8039,7 +8039,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2021-04-13,132.0,"Clue - Wata 8.5 A Sealed, GEN Parker Brothers 1992 USA. ...",312115,67061,,Clue,8.5,A,SEALED,False
 2021-07-11,5040.0,"Futurama - Wata 9.4 A Sealed, PS2 Vivendi Universal 2003 USA....",7261,28100,,Futurama,9.4,A,SEALED,False
 2021-07-27,99.0,"Big Bird's Egg Catch - Wata 7.0 A+ Sealed [Yellow Box], 2600 Atari 1983 USA....",312130,69001,Yellow Box,Big Bird's Egg Catch,7.0,A+,SEALED,False
-2019-02-21,9000.0,"Halo: Combat Evolved (NFR) (XBOX, Microsoft, 2001) Wata 9.6 A (Seal Rating)....",7204,92253,"NFR) (XBOX, Microsoft, 2001, Seal Rating",Halo: Combat Evolved,,,,False
+2019-02-21,9000.0,"Halo: Combat Evolved (NFR) (XBOX, Microsoft, 2001) Wata 9.6 A (Seal Rating)....",7204,92253,"NFR XBOX, Microsoft, 2001, Seal Rating",Halo: Combat Evolved,,,,False
 2021-03-09,576.0,"Chip 'n Dale: Rescue Rangers - Wata 9.0 CIB [Oval SOQ R], NES 1990 USA. ...",312110,67035,Oval SOQ R,Chip 'n Dale: Rescue Rangers,9.0,,CIB,False
 2020-02-03,288.0,Addams Family Values [Made in Japan] Wata 9.8 A++ Sealed SNES Ocean 1995 USA....,122005,11900,Made in Japan,Addams Family Values,9.8,A++,SEALED,False
 2019-06-09,120.0,"Half Life 2 (Xbox, Valve, 2005) Wata 8.5 B+ (Seal Rating)....",121923,13211,"Xbox, Valve, 2005, Seal Rating",Half Life 2,,,,False
@@ -8136,7 +8136,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2021-02-15,384.0,"Ms. Pac-Man - Wata 9.4 A++ Sealed [1988 Silver box], 2600 Atari 1983 USA. ...",122107,16004,1988 Silver box,Ms. Pac-Man,9.4,A++,SEALED,False
 2021-08-24,132.0,"Die Hard Trilogy 2: Viva Las Vegas - Wata 7.5 A+ Sealed, PS1 Fox 2000 USA....",312134,69099,,Die Hard Trilogy 2: Viva Las Vegas,7.5,A+,SEALED,False
 2019-07-28,2640.0,"Donkey Kong Country (SNES, Nintendo, 1994, USA) Wata 9.8 A+ (Seal Rating) Variant: Made in Japan....",121930,17271,"SNES, Nintendo, 1994, USA, Seal Rating",Donkey Kong Country,,,,True
-2019-03-24,120.0,"NES and SNES Wata Certified Group of 3 Nintendo Cartridges (Various, 1985, 1987, 1994).... (Total: 3 Items)",121912,15287,"Various, 1985, 1987, 1994).... (Total: 3 Items",NES and SNES,,,,False
+2019-03-24,120.0,"NES and SNES Wata Certified Group of 3 Nintendo Cartridges (Various, 1985, 1987, 1994).... (Total: 3 Items)",121912,15287,"Various, 1985, 1987, 1994.... Total: 3 Items",NES and SNES,,,,False
 2021-01-17,10800.0,"Gran Turismo - Wata 9.8 A+ Sealed [Sony Security Label], PS1 Sony 1998 USA. ...",7239,97093,Sony Security Label,Gran Turismo,9.8,A+,SEALED,False
 2019-08-01,3360.0,"Sonic CD Version 0.51 6/21/1993 (Sega CD, Sega, 1993) Wata Certified Prototype....",7211,92232,"Sega CD, Sega, 1993",Sonic CD Version 0.51 6/21/1993,,,,False
 2020-07-27,138.0,"Madden NFL '97 - Wata 9.2 B Sealed, GEN EA Sports 1996 USA....",122030,17866,,Madden NFL '97,9.2,B,SEALED,False
@@ -8147,7 +8147,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2020-07-12,240.0,"Jungle Hunt - Wata 9.2 A++ Sealed [1988 Silver box, Later Production], 2600 Atari 1983 USA....",7231,97006,"1988 Silver box, Later Production",Jungle Hunt,9.2,A++,SEALED,False
 2019-11-24,900.0,The Adventures of Gilligan's Island - Carolina Collection Wata 9.4 A+ Sealed NES Bandai 1990 USA....,7212,97010,,The Adventures of Gilligan's Island - Carolina Collection,9.4,A+,SEALED,False
 2021-02-08,192.0,"Rumble Roses - Wata 9.8 A+ Sealed [Sony Security Label], PS2 Konami 2004 USA. ...",122106,14129,Sony Security Label,Rumble Roses,9.8,A+,SEALED,False
-2021-07-11,1440.0,"Hook - Wata 9.4 A+ Sealed [Oval SOQ R] (The Indiana Collection), NES Sony Imagesoft 1992 USA. ...",7261,29045,Oval SOQ R] (The Indiana Collection,Hook,9.4,A+,SEALED,False
+2021-07-11,1440.0,"Hook - Wata 9.4 A+ Sealed [Oval SOQ R] (The Indiana Collection), NES Sony Imagesoft 1992 USA. ...",7261,29045,Oval SOQ R The Indiana Collection,Hook,9.4,A+,SEALED,False
 2019-10-24,57.0,"F-Zero [Player's Choice, Made in Japan] Wata 7.5 A++ Sealed SNES, Nintendo, 1991, USA....",121942,15392,"Player's Choice, Made in Japan",F-Zero,7.5,A++,SEALED,False
 2021-07-11,3840.0,"The Jetsons: Cogswell's Caper - Wata 9.6 CIB [Oval SOQ R], NES Taito 1992 USA. ...",7261,29048,Oval SOQ R,The Jetsons: Cogswell's Caper,9.6,,CIB,False
 2020-11-20,20400.0,"Super Mario Bros. 3 - Wata 5.0 B+ Sealed [""Bros."" Left, First Production], NES Nintendo 1990 USA....",7236,93033,"""Bros."" Left, First Production",Super Mario Bros. 3,5.0,B+,SEALED,False
@@ -8513,11 +8513,11 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2021-07-06,360.0,"Total Eclipse Turbo - Wata 9.8 A Sealed [Jewel Longbox], PS1 Crystal Dynamics 1995 USA....",312127,66087,Jewel Longbox,Total Eclipse Turbo,9.8,A,SEALED,False
 2020-03-16,47.0,X-Men [Poster Offer] Wata 8.5 CIB GEN Sega 1993 USA....,122011,15892,Poster Offer,X-Men,8.5,,CIB,False
 2021-08-17,168.0,"Fight Club - Wata 9.6 A Sealed [Microsoft Security Label], Xbox Vivendi Universal 2004 USA....",312133,68111,Microsoft Security Label,Fight Club,9.6,A,SEALED,False
-2020-09-13,1080.0,"Kung Fu - Wata 7.5 B+ Sealed [Oval SOQ TM, Later Production] (Atwood Collection), NES Nintendo 1985 USA....",7234,97081,"Oval SOQ TM, Later Production] (Atwood Collection",Kung Fu,7.5,B+,SEALED,False
+2020-09-13,1080.0,"Kung Fu - Wata 7.5 B+ Sealed [Oval SOQ TM, Later Production] (Atwood Collection), NES Nintendo 1985 USA....",7234,97081,"Oval SOQ TM, Later Production Atwood Collection",Kung Fu,7.5,B+,SEALED,False
 2020-04-06,240.0,Pokemon Snap Wata 9.2 A++ Sealed N64 Nintendo 1999 USA....,122014,11804,,Pokemon Snap,9.2,A++,SEALED,False
 2020-11-16,264.0,"WWF War Zone - Wata 9.0 A+ Sealed, N64 Acclaim Sports 1998 USA....",122046,15850,,WWF War Zone,9.0,A+,SEALED,False
 2020-09-28,156.0,"Gravitar - Wata 9.4 A++ Sealed, 2600 Atari 1983 USA. ...",122039,17889,,Gravitar,9.4,A++,SEALED,False
-2019-05-18,660.0,"Super Metroid (SNES, Nintendo, 1994) Wata 8.5 A+ (Seal Rating) Variant: Player's Choice (1997)....",7209,94842,"SNES, Nintendo, 1994, Seal Rating) Variant: Player's Choice (1997",Super Metroid,,,,False
+2019-05-18,660.0,"Super Metroid (SNES, Nintendo, 1994) Wata 8.5 A+ (Seal Rating) Variant: Player's Choice (1997)....",7209,94842,"SNES, Nintendo, 1994, Seal Rating Variant: Player's Choice 1997",Super Metroid,,,,False
 2019-10-24,360.0,"Tag Team Match: M.U.S.C.L.E. [Hangtab] Wata 7.0 CIB NES, Bandai, 1986, USA....",121942,15385,Hangtab,Tag Team Match: M.U.S.C.L.E.,7.0,,CIB,False
 2020-05-03,576.0,The Bugs Bunny Birthday Blowout [Oval SOQ R] Wata 9.2 A Sealed NES Kemco-Seika 1990 USA....,7229,97070,Oval SOQ R,The Bugs Bunny Birthday Blowout,9.2,A,SEALED,False
 2019-11-03,660.0,"Tag Team Match: M.U.S.C.L.E. [Hangtab, No Rev-A, Round SOQ] Wata 5.5 CIB NES Bandai 1986 USA....",121944,11817,"Hangtab, No Rev-A, Round SOQ",Tag Team Match: M.U.S.C.L.E.,5.5,,CIB,False
@@ -8550,7 +8550,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2019-12-01,504.0,"Baseball [Gloss Sticker, Second Test Market] Wata 7.5 CIB NES Nintendo 1985 USA....",121948,11302,"Gloss Sticker, Second Test Market",Baseball,7.5,,CIB,False
 2021-02-01,552.0,"Grand Theft Auto: Vice City - Wata 9.8 A++ Sealed [""Trilogy"" Release, Later Production], PS2 Rockstar 2002 USA....",122105,12070,"""Trilogy"" Release, Later Production",Grand Theft Auto: Vice City,9.8,A++,SEALED,False
 2020-09-14,900.0,"Wolverine: Adamantium Rage - Wata 9.4 A++ Sealed, GEN Acclaim 1994 USA. ...",122037,13892,,Wolverine: Adamantium Rage,9.4,A++,SEALED,False
-2019-05-05,780.0,"Metroid (NES, Nintendo, 1987) Wata 9.0 A+ (Seal Rating) Variant: Classic Series (1992)....",121918,11199,"NES, Nintendo, 1987, Seal Rating) Variant: Classic Series (1992",Metroid,,,,False
+2019-05-05,780.0,"Metroid (NES, Nintendo, 1987) Wata 9.0 A+ (Seal Rating) Variant: Classic Series (1992)....",121918,11199,"NES, Nintendo, 1987, Seal Rating Variant: Classic Series 1992",Metroid,,,,False
 2020-09-13,1140.0,"Final Fantasy Legend II - Wata 9.6 A+ Sealed, GB SUNSOFT 1998 USA. ...",7234,97121,,Final Fantasy Legend II,9.6,A+,SEALED,False
 2020-04-06,55.0,Adventures in the Magic Kingdom Wata 7.0 CIB NES Capcom 1990 USA....,122014,11780,,Adventures in the Magic Kingdom,7.0,,CIB,False
 2020-09-07,204.0,"Kangaroo - Wata 9.8 A++ Sealed [1988 Silver Box], 2600 Atari 1983 USA. ...",122036,11796,1988 Silver Box,Kangaroo,9.8,A++,SEALED,False
@@ -8613,7 +8613,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2020-05-25,288.0,"Xenophobe - Wata 9.4 A+ Sealed [Rev-A, Round SOQ], NES Nintendo 1987 USA....",122021,17806,"Rev-A, Round SOQ",Xenophobe,9.4,A+,SEALED,False
 2020-11-02,336.0,"Rhapsody: A Musical Adventure - Wata 9.6 B Sealed [Sony Security Label], PS1 Atlus 2000 USA....",122044,11955,Sony Security Label,Rhapsody: A Musical Adventure,9.6,B,SEALED,False
 2020-09-11,2880.0,"Wolfenstein 3D - Wata 9.2 A Sealed, SNES Imagineer 1994 USA....",7234,93046,,Wolfenstein 3D,9.2,A,SEALED,False
-2020-09-13,2640.0,"Paperboy - Wata 9.4 A Sealed [Oval SOQ TM, Later Production] (Atwood Collection), NES Mindscape 1988 USA....",7234,97090,"Oval SOQ TM, Later Production] (Atwood Collection",Paperboy,9.4,A,SEALED,False
+2020-09-13,2640.0,"Paperboy - Wata 9.4 A Sealed [Oval SOQ TM, Later Production] (Atwood Collection), NES Mindscape 1988 USA....",7234,97090,"Oval SOQ TM, Later Production Atwood Collection",Paperboy,9.4,A,SEALED,False
 2019-08-18,99.0,"Ninja Gaiden (NES, Tecmo, 1989, USA) Wata 6.5 CIB (Complete in Box) Box 5.0, Cart 7.5, Manual 8.5....",121933,15249,"NES, Tecmo, 1989, USA, Complete in Box",Ninja Gaiden,,,,False
 2019-10-27,1440.0,"Mike Tyson's Punch-Out!! [Round SOQ, Orange Bullets, Includes Letter] Wata 7.0 CIB NES Nintendo 1987 USA....",121943,17293,"Round SOQ, Orange Bullets, Includes Letter",Mike Tyson's Punch-Out!!,7.0,,CIB,False
 2020-05-01,28800.0,Chrono Trigger Wata 9.8 A++ Sealed SNES SquareSoft 1995 USA....,7229,93031,,Chrono Trigger,9.8,A++,SEALED,False
@@ -8828,7 +8828,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2021-08-10,432.0,"Starwing - Wata 8.5 B+ Sealed [PAL Version], SNES Nintendo 1993 EUR....",312132,67046,PAL Version,Starwing,8.5,B+,SEALED,False
 2019-09-01,840.0,"Donkey Kong Country 2: Diddy's Kong Quest [Made in Japan] Wata 9.4 A+ (Seal Rating) SNES, Nintendo, 1995, USA....",121935,11368,"Made in Japan, Seal Rating",Donkey Kong Country 2: Diddy's Kong Quest,,,,False
 2020-11-23,456.0,"Reactor - Wata 9.8 A++ Sealed, 2600 Parker Brothers 1982 USA. ...",122047,17770,,Reactor,9.8,A++,SEALED,False
-2021-04-20,576.0,"Dynowarz: Destruction of Spondylus - Wata 9.4 A Sealed [Oval SOQ R] (The Indiana Collection), NES Bandai 1990 USA. ...",312116,68030,Oval SOQ R] (The Indiana Collection,Dynowarz: Destruction of Spondylus,9.4,A,SEALED,False
+2021-04-20,576.0,"Dynowarz: Destruction of Spondylus - Wata 9.4 A Sealed [Oval SOQ R] (The Indiana Collection), NES Bandai 1990 USA. ...",312116,68030,Oval SOQ R The Indiana Collection,Dynowarz: Destruction of Spondylus,9.4,A,SEALED,False
 2021-08-10,1140.0,"Mike Tyson Heavyweight Boxing - Wata 9.8 A++ Sealed [Microsoft Security Label], Xbox Codemasters 2002 USA....",312132,67095,Microsoft Security Label,Mike Tyson Heavyweight Boxing,9.8,A++,SEALED,False
 2021-02-22,660.0,"Parasite Eve II - Wata 9.8 A+ Sealed [Sony Security Label], PS1 Squaresoft 2000 USA. ...",122108,18092,Sony Security Label,Parasite Eve II,9.8,A+,SEALED,False
 2021-01-04,180.0,"Othello - Wata 9.2 NS Glue Seal [1980 Blank White box], 2600 Atari 1980 USA. ...",122101,11677,1980 Blank White box,Othello,9.2,,GLUE SEAL,False
@@ -8839,7 +8839,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2020-05-03,780.0,Captain America and the Avengers Wata 8.5 A Sealed SNES Mindscape 1993 USA....,7229,97209,,Captain America and the Avengers,8.5,A,SEALED,False
 2021-07-11,900.0,"Rampage 2: Universal Tour - Wata 9.4 A+ Sealed, GBC Midway 1999 USA. ...",7261,29168,,Rampage 2: Universal Tour,9.4,A+,SEALED,False
 2020-06-22,204.0,"Xenophobe - Wata 7.5 A+ Sealed [Rev-A, Round SOQ, Early Production] NES Sunsoft 1988 USA....",122025,17976,"Rev-A, Round SOQ, Early Production",Xenophobe,7.5,A+,SEALED,False
-2020-09-13,2400.0,"Golf - Wata 9.0 A Sealed [Oval SOQ TM, Later Production] (Atwood Collection), NES Nintendo 1985 USA....",7234,97071,"Oval SOQ TM, Later Production] (Atwood Collection",Golf,9.0,A,SEALED,False
+2020-09-13,2400.0,"Golf - Wata 9.0 A Sealed [Oval SOQ TM, Later Production] (Atwood Collection), NES Nintendo 1985 USA....",7234,97071,"Oval SOQ TM, Later Production Atwood Collection",Golf,9.0,A,SEALED,False
 2021-07-09,6600.0,"Mario Bros. - Wata 7.0 CIB [Gloss Sticker, First Production], NES Nintendo 1986 USA....",7261,28032,"Gloss Sticker, First Production",Mario Bros.,7.0,,CIB,False
 2021-08-31,750.0,"Herc's Adventures - Wata 9.2 A+ Sealed [Sony Security Label], PS1 Lucas Arts 1997 USA....",312135,70083,Sony Security Label,Herc's Adventures,9.2,A+,SEALED,False
 2020-05-11,264.0,"Super Mario Bros. 3 - Wata 8.5 CIB [""Bros. Right], NES Nintendo 1990 USA....",122019,13780,"""Bros. Right",Super Mario Bros. 3,8.5,,CIB,False
@@ -9040,8 +9040,8 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2021-04-05,2640.0,"Bionic Commando - Wata 9.2 A+ Sealed, [Rev-A, Round SOQ], NES Capcom 1988 USA....",7242,97044,"Rev-A, Round SOQ",Bionic Commando,9.2,A+,SEALED,False
 2021-07-20,312.0,"Valkyrie Profile 2: Silmeria - Wata 9.8 A+ Sealed, PS2 Square Enix 2006 USA....",312129,68109,,Valkyrie Profile 2: Silmeria,9.8,A+,SEALED,False
 2019-11-22,1500.0,"Blaster Master [Rev-A, Oval SOQ TM] - Carolina Collection Wata 9.6 A+ Sealed NES Sunsoft 1988 USA....",7212,93007,"Rev-A, Oval SOQ TM",Blaster Master  - Carolina Collection,9.6,A+,SEALED,False
-2019-01-13,120.0,"Pac-Man (Licensed) (NES, Tengen, 1988) Wata 7.0 CIB (Complete in Box)....",121902,12226,"Licensed) (NES, Tengen, 1988, Complete in Box",Pac-Man,,,,False
-2020-11-02,504.0,"Bad News Baseball - Wata 9.4 A Sealed [Oval SOQ R] (The Carolina Collection), NES Tecmo 1990 USA. ...",122044,11903,Oval SOQ R] (The Carolina Collection,Bad News Baseball,9.4,A,SEALED,False
+2019-01-13,120.0,"Pac-Man (Licensed) (NES, Tengen, 1988) Wata 7.0 CIB (Complete in Box)....",121902,12226,"Licensed NES, Tengen, 1988, Complete in Box",Pac-Man,,,,False
+2020-11-02,504.0,"Bad News Baseball - Wata 9.4 A Sealed [Oval SOQ R] (The Carolina Collection), NES Tecmo 1990 USA. ...",122044,11903,Oval SOQ R The Carolina Collection,Bad News Baseball,9.4,A,SEALED,False
 2021-04-05,1680.0,"The Lost World: Jurassic Park - Wata 9.6 A++ Sealed, GEN Sega 1997 USA....",7242,97218,,The Lost World: Jurassic Park,9.6,A++,SEALED,False
 2021-01-04,65.0,"Venture - Wata 7.5 A++ Sealed [1988 Red box], 2600 Atari 1988 USA. ...",122101,11683,1988 Red box,Venture,7.5,A++,SEALED,False
 2020-10-26,1080.0,"Quackshot starring Donald Duck - Wata 7.5 B+ Sealed, GEN Sega 1991 USA....",122043,18051,,Quackshot starring Donald Duck,7.5,B+,SEALED,False
@@ -9133,7 +9133,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2020-10-05,120.0,"Street Fighter Alpha Anthology - Wata 9.4 A+ Sealed, PS2 Capcom 2006 USA. ...",122040,11950,,Street Fighter Alpha Anthology,9.4,A+,SEALED,False
 2020-11-16,1020.0,"The Simpsons: Road Rage - Wata 9.6 A+ Sealed, GBA THQ 2003 USA....",122046,15852,,The Simpsons: Road Rage,9.6,A+,SEALED,False
 2020-05-03,288.0,Asterix and the Great Rescue Wata 9.8 A+ Sealed GEN Sega 1993 USA....,7229,97256,,Asterix and the Great Rescue,9.8,A+,SEALED,False
-2019-05-18,300.0,"Halo: Combat Evolved GOTY (NFR) (Xbox, Microsoft, 2001) Wata 9.4 A (Seal Rating) Variant: Game of the Year (Not for Resale)....",7209,94830,"NFR) (Xbox, Microsoft, 2001, Seal Rating) Variant: Game of the Year (Not for Resale",Halo: Combat Evolved GOTY,,,,False
+2019-05-18,300.0,"Halo: Combat Evolved GOTY (NFR) (Xbox, Microsoft, 2001) Wata 9.4 A (Seal Rating) Variant: Game of the Year (Not for Resale)....",7209,94830,"NFR Xbox, Microsoft, 2001, Seal Rating Variant: Game of the Year Not for Resale",Halo: Combat Evolved GOTY,,,,False
 2021-01-25,144.0,"Demon Attack - Wata 8.5 A++ Sealed [1982 Silver box], 2600 Imagic 1982 USA. ...",122104,17906,1982 Silver box,Demon Attack,8.5,A++,SEALED,False
 2019-11-22,15465.6,"Mario Bros. [Rev-A, Round SOQ] - Carolina Collection Wata 9.4 A+ Sealed NES Nintendo 1986 USA....",7212,93029,"Rev-A, Round SOQ",Mario Bros.  - Carolina Collection,9.4,A+,SEALED,False
 2021-04-05,5280.0,"Paper Mario - Wata 9.6 A++ Sealed, N64 Nintendo 2000 USA....",7242,97170,,Paper Mario,9.6,A++,SEALED,False
@@ -9250,7 +9250,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2021-01-11,3600.0,"Pokemon Blue Version - Wata 7.0 A++ Sealed [Pixel ESRB, Early Production], GB Nintendo 1998 USA....",122102,13789,"Pixel ESRB, Early Production",Pokemon Blue Version,7.0,A++,SEALED,False
 2021-04-13,528.0,"Mike Tyson's Punch-Out!! - Wata 6.5 CIB [White Bullets, Round SOQ, First Production], NES Nintendo 1987 USA. ...",312115,67036,"White Bullets, Round SOQ, First Production",Mike Tyson's Punch-Out!!,6.5,,CIB,False
 2020-11-22,5520.0,"Sonic the Hedgehog 2 - Wata 9.4 A++ Sealed [Tube Seam, Early Production] GEN Sega 1992 USA....",7236,97218,"Tube Seam, Early Production",Sonic the Hedgehog 2,9.4,A++,SEALED,False
-2019-02-23,288.0,"Gauntlet (Unlicensed) (NES, Tengen, 1988) Wata 8.0 A+ (Seal Rating)....",7204,94426,"Unlicensed) (NES, Tengen, 1988, Seal Rating",Gauntlet,,,,False
+2019-02-23,288.0,"Gauntlet (Unlicensed) (NES, Tengen, 1988) Wata 8.0 A+ (Seal Rating)....",7204,94426,"Unlicensed NES, Tengen, 1988, Seal Rating",Gauntlet,,,,False
 2020-12-21,192.0,"Megamania - Wata 8.5 A+ Sealed [Canadian Version, 1982 Orange box], 2600 Activision 1982 CAN. ...",122051,16046,"Canadian Version, 1982 Orange box",Megamania,8.5,A+,SEALED,False
 2020-09-07,138.0,"MotoRodeo - Wata 9.4 A++ Sealed, 2600 Atari 1990 USA. ...",122036,11800,,MotoRodeo,9.4,A++,SEALED,False
 2021-04-20,192.0,"Venture - Wata 9.0 A++ Sealed [1988 Red box], 2600 Atari 1988 USA. ...",312116,68021,1988 Red box,Venture,9.0,A++,SEALED,False
@@ -9271,7 +9271,7 @@ sale_date,sale_price,description,sale_id,lot_id,comments,title,grade,seal_grade,
 2021-04-13,600.0,"Doom Troopers - Wata 9.4 A+ Sealed, GEN Playmates 1995 USA. ...",312115,67062,,Doom Troopers,9.4,A+,SEALED,False
 2020-08-24,228.0,"Spider-Man: The Animated Series - Wata 9.4 NS No Seal, SNES LJN 1993 USA....",122034,17818,,Spider-Man: The Animated Series,9.4,,NO SEAL,False
 2021-04-13,99.0,"Quake III Arena - Wata 7.0 A++ Sealed, D.Cast 2000 USA. ...",312115,67072,,Quake III Arena,7.0,A++,SEALED,False
-2021-07-09,3600.0,"Golf - Wata 9.4 A Sealed [Oval SOQ TM, Later Production] (Hawaii Collection), NES Nintendo 1985 USA. ...",7261,28024,"Oval SOQ TM, Later Production] (Hawaii Collection",Golf,9.4,A,SEALED,False
+2021-07-09,3600.0,"Golf - Wata 9.4 A Sealed [Oval SOQ TM, Later Production] (Hawaii Collection), NES Nintendo 1985 USA. ...",7261,28024,"Oval SOQ TM, Later Production Hawaii Collection",Golf,9.4,A,SEALED,False
 2021-02-01,114.0,"Venture - Wata 9.4 A++ Sealed [1988 Red box], 2600 Atari 1988 USA. ...",122105,12023,1988 Red box,Venture,9.4,A++,SEALED,False
 2020-07-12,2160.0,"R.C. Pro-Am - Wata 9.8 A++ Sealed [Rev-A, Round SOQ, Early Production], NES Nintendo 1988 USA....",7231,97096,"Rev-A, Round SOQ, Early Production",R.C. Pro-Am,9.8,A++,SEALED,False
 2019-01-13,312.0,"Super Mario Bros. (NES, Nintendo 1985) Wata 8.0 CIB (Complete in Box)....",121902,12233,"NES, Nintendo 1985, Complete in Box",Super Mario Bros.,,,,False
