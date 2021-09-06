@@ -147,9 +147,9 @@ for sale in sales:
 
 sales = []
 
-grade_rx = re.compile(r'^[0-9].[0-9]')
-seal_grade_rx = re.compile(r'(?: )([ABC][\+]*)(?: )')
-seal_type_rx = re.compile(r'SEALED|GLUE SEAL|NO SEAL|CIB|LOOSE CART')
+grade_rx = re.compile(r'\b[0-9].[0-9]\b')
+seal_grade_rx = re.compile(r'\b(CIB|[ABC]{1})[\+]*(?!=[^ \+])')
+seal_type_rx = re.compile(r'SEALED|GLUE SEAL|NO SEAL|LOOSE CART')
 variant_rx = re.compile(r'VARIANT: ')
 # {'9.4', '7.0', '2.5', '9.2', '3.0', '9.6', '6.0', '6.5', '5.0', '7.5', '4.5', '5.5', '8.0', '9.0', '4.0', None, '9.8', '8.5', '3.5'}
 
@@ -159,11 +159,8 @@ for index, sale in enumerate(wata):
     sale, title, grading = sale
 
     # The titles have bunch of random comments sometimes, this gets rid of that.
-    comment_rx = re.compile(r'(?:[\[\(])(.+)(?:[\]\)])')
+    comment_rx = re.compile(r'\b(CIB|(?<!=\d)[ABC]{1})[\+]*(?!=[^\+])')
     comments = [*re.findall(comment_rx, title), *re.findall(comment_rx, grading)]
-
-    for comment in comments:
-        comment = re.sub(r'\(|\)\[\]\"', '', comment)
 
     clean_up_rx = re.compile(r'\.{3,}|\.$|[\[\(].+[\]\)]|,')
     cleaned = re.sub(clean_up_rx, '', sale.get('description'))
@@ -172,11 +169,11 @@ for index, sale in enumerate(wata):
     cleaned = re.sub(r'\. ', '', cleaned)
     cleaned = cleaned.strip().upper()
 
-    grade = re.search(grade_rx, cleaned)
+    grade = re.search(grade_rx, sale.get('description'))
     if grade:
         grade = grade[0]
 
-    seal_grade = re.search(seal_grade_rx, cleaned)
+    seal_grade = re.search(seal_grade_rx, sale.get('description'))
     if seal_grade:
         seal_grade = seal_grade[0].strip()
 
@@ -188,17 +185,18 @@ for index, sale in enumerate(wata):
     if variant:
         variant = True
 
-    sale = {
+    _sale = {
         **sale,
-        'comments': ", ".join(comments),
-        'title': re.sub(r'[\[\(].+[\]\)]', '', title).strip(),
+        'description': cleaned,
+        'comments': re.sub(r'[\[\(\]\)]', '', ", ".join(comments)),
+        'title': re.sub(r'[\[\(].+[\]\)]', '', title).strip().upper(),
         'grade': grade,
         'seal_grade': seal_grade,
         'seal_type': seal_type,
         'variant': variant or False
     }
 
-    sales.append(sale)
+    sales.append(_sale)
 
 df = pd.DataFrame().from_dict(sales)
 df.to_csv('heritage_sales.csv', index=False)
